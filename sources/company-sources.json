@@ -1,0 +1,54 @@
+{
+  "company": [
+    {
+      "sourceId": "SRC-PRB-001",
+      "topic": "Identitas dan produk",
+      "value": "Praba Sea Procesing Food",
+      "sourceType": "owner-provided",
+      "providedBy": "Praba Sea Procesing Food",
+      "dateProvided": "2026-09-29",
+      "status": "owner-provided",
+      "notes": "Detail produk perlu dikonfirmasi pemilik."
+    },
+    {
+      "sourceId": "SRC-PRB-002",
+      "topic": "Alamat",
+      "value": "Doropayung, Kecamatan Juwana, Kabupaten Pati, Jawa Tengah",
+      "sourceType": "owner-provided",
+      "providedBy": "Praba Sea Procesing Food",
+      "dateProvided": "2026-09-29",
+      "status": "owner-provided",
+      "notes": ""
+    },
+    {
+      "sourceId": "SRC-PRB-003",
+      "topic": "WhatsApp",
+      "value": "0851 6111 6105",
+      "sourceType": "owner-provided",
+      "providedBy": "Praba Sea Procesing Food",
+      "dateProvided": "2026-09-29",
+      "status": "owner-provided",
+      "notes": ""
+    },
+    {
+      "sourceId": "SRC-PRB-004",
+      "topic": "Instagram",
+      "value": "Praba Sea Procesing Food",
+      "sourceType": "owner-provided",
+      "providedBy": "Praba Sea Procesing Food",
+      "dateProvided": "2026-09-29",
+      "status": "owner-provided",
+      "notes": ""
+    },
+    {
+      "sourceId": "SRC-PRB-005",
+      "topic": "Tagline",
+      "value": "Lezatnya Ikan Asap, Rasa Laut Pilihan",
+      "sourceType": "owner-provided",
+      "providedBy": "Praba Sea Procesing Food",
+      "dateProvided": "2026-09-29",
+      "status": "owner-provided",
+      "notes": ""
+    }
+  ]
+}

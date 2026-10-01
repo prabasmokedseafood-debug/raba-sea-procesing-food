@@ -1,0 +1,2179 @@
+{
+  "languages": {
+    "default": "id",
+    "supported": [
+      "id",
+      "en",
+      "zh"
+    ]
+  },
+  "translations": {
+    "nav.home": {
+      "id": "Beranda",
+      "en": "Home",
+      "zh": "首页"
+    },
+    "nav.products": {
+      "id": "Produk",
+      "en": "Products",
+      "zh": "产品"
+    },
+    "nav.about": {
+      "id": "Tentang Kami",
+      "en": "About Us",
+      "zh": "关于我们"
+    },
+    "nav.recipes": {
+      "id": "Resep",
+      "en": "Recipes",
+      "zh": "食谱"
+    },
+    "nav.blog": {
+      "id": "Blog",
+      "en": "Blog",
+      "zh": "博客"
+    },
+    "nav.contact": {
+      "id": "Kontak",
+      "en": "Contact",
+      "zh": "联系"
+    },
+    "common.orderWhatsApp": {
+      "id": "Pesan via WhatsApp",
+      "en": "Order via WhatsApp",
+      "zh": "通过 WhatsApp 订购"
+    },
+    "common.viewProducts": {
+      "id": "Lihat Produk",
+      "en": "View Products",
+      "zh": "查看产品"
+    },
+    "common.viewAllRecipes": {
+      "id": "Lihat semua resep →",
+      "en": "View all recipes →",
+      "zh": "查看全部食谱 →"
+    },
+    "common.ask": {
+      "id": "Tanya",
+      "en": "Ask",
+      "zh": "咨询"
+    },
+    "common.source": {
+      "id": "Sumber",
+      "en": "Source",
+      "zh": "来源"
+    },
+    "products.heroLabel": {
+      "id": "PRABA SEA PROCESING FOOD",
+      "en": "PRABA SEA PROCESING FOOD",
+      "zh": "PRABA SEA PROCESING FOOD"
+    },
+    "products.heroTitle": {
+      "id": "Produk utama",
+      "en": "Main product",
+      "zh": "主要产品"
+    },
+    "products.heroText": {
+      "id": "Asap Kepala Ikan Jahan tersedia dalam tiga ukuran dengan dua pilihan kemasan. Harga dan ketersediaan mengikuti informasi produk yang telah dikonfirmasi Praba.",
+      "en": "Smoked Jahan Fish Head is available in three sizes with two packaging options. Prices and availability follow the product information confirmed by Praba.",
+      "zh": "烟熏Jahan鱼头提供三种规格和两种包装选择。价格和供应情况以Praba确认的产品信息为准。"
+    },
+    "products.noteTitle": {
+      "id": "Informasi produk",
+      "en": "Product information",
+      "zh": "产品信息"
+    },
+    "products.noteText": {
+      "id": "Harga: Rp20.000 untuk kemasan ekonomis dan Rp20.500 untuk kemasan reguler. Penyimpanan dingin direkomendasikan. Daya simpan yang dicantumkan berdasarkan hasil pengujian dan pengalaman.",
+      "en": "Price: Rp20,000 for economical packaging and Rp20,500 for regular packaging. Chilled storage is recommended. The listed shelf life is based on testing results and experience.",
+      "zh": "价格：经济装Rp20,000，标准装Rp20,500。建议冷藏保存。所列保质期依据测试结果和经验。"
+    },
+    "recipes.search": {
+      "id": "Cari resep, bahan, atau nama masakan…",
+      "en": "Search recipes, ingredients or dish names…",
+      "zh": "搜索食谱、食材或菜名…"
+    },
+    "recipes.all": {
+      "id": "Semua",
+      "en": "All",
+      "zh": "全部"
+    },
+    "recipes.santan": {
+      "id": "Santan & Kuah",
+      "en": "Coconut Milk & Soups",
+      "zh": "椰奶与汤"
+    },
+    "recipes.pedas": {
+      "id": "Sambal & Pedas",
+      "en": "Chili & Spicy",
+      "zh": "辣椒与辛辣"
+    },
+    "recipes.praktis": {
+      "id": "Praktis",
+      "en": "Quick",
+      "zh": "简易"
+    },
+    "recipes.tradisional": {
+      "id": "Tradisional",
+      "en": "Traditional",
+      "zh": "传统"
+    },
+    "recipes.empty": {
+      "id": "Resep yang Anda cari belum ditemukan. Coba kata kunci atau filter lain.",
+      "en": "No matching recipe was found. Try another keyword or filter.",
+      "zh": "未找到匹配食谱，请尝试其他关键词或筛选条件。"
+    },
+    "blog.heroLabel": {
+      "id": "PRABA JOURNAL",
+      "en": "PRABA JOURNAL",
+      "zh": "PRABA JOURNAL"
+    },
+    "blog.heroTitle": {
+      "id": "Cerita, Tips & Inspirasi Seafood",
+      "en": "Stories, Tips & Seafood Inspiration",
+      "zh": "故事、技巧与海鲜灵感"
+    },
+    "blog.heroText": {
+      "id": "Artikel edukatif yang dirangkum dari sumber perikanan dan keamanan pangan, dipadukan dengan konteks Praba di Juwana.",
+      "en": "Educational articles summarized from fisheries and food-safety sources, with Praba context in Juwana.",
+      "zh": "结合Juwana Praba背景，整理来自渔业和食品安全资料的教育文章。"
+    },
+    "contact.heroLabel": {
+      "id": "HUBUNGI PRABA",
+      "en": "CONTACT PRABA",
+      "zh": "联系 PRABA"
+    },
+    "contact.heroTitle": {
+      "id": "Pesan dengan mudah.",
+      "en": "Order with ease.",
+      "zh": "轻松订购。"
+    },
+    "contact.heroText": {
+      "id": "Untuk stok, jenis produk, harga, dan pemesanan, silakan hubungi Praba melalui WhatsApp.",
+      "en": "For stock, product types, prices and orders, contact Praba via WhatsApp.",
+      "zh": "如需了解库存、产品类型、价格和订购，请通过WhatsApp联系Praba。"
+    },
+    "contact.references": {
+      "id": "Referensi & Sumber",
+      "en": "References & Sources",
+      "zh": "参考资料与来源"
+    },
+    "home.productLabel": {
+      "id": "PRODUK PILIHAN",
+      "en": "SELECTED PRODUCTS",
+      "zh": "精选产品"
+    },
+    "home.productTitle": {
+      "id": "Rasa laut yang berkarakter.",
+      "en": "Distinctive flavors of the sea.",
+      "zh": "海洋的独特风味。"
+    },
+    "home.recipeLabel": {
+      "id": "DAPUR PRABA",
+      "en": "PRABA KITCHEN",
+      "zh": "PRABA 厨房"
+    },
+    "home.recipeTitle": {
+      "id": "15 resep ikan asap untuk dicoba.",
+      "en": "15 smoked-fish recipes to try.",
+      "zh": "15道烟熏鱼食谱等你尝试。"
+    },
+    "about.hero.label": {
+      "id": "TENTANG KAMI",
+      "en": "ABOUT US",
+      "zh": "关于我们"
+    },
+    "about.hero.title": {
+      "id": "Dari Laut Juwana, untuk Meja Anda",
+      "en": "From Juwana's Sea to Your Table",
+      "zh": "从Juwana海洋到您的餐桌"
+    },
+    "about.hero.text": {
+      "id": "Praba Sea Procesing Food hadir dari lingkungan perikanan Juwana, Kabupaten Pati, sebuah kawasan yang memiliki aktivitas pendaratan, perdagangan, pengolahan, dan distribusi hasil perikanan. Kami berupaya menghadirkan produk ikan asap dengan perhatian terhadap mutu bahan baku, proses pengolahan, keamanan pangan, serta pengelolaan produk hingga sampai kepada konsumen.",
+      "en": "Praba Sea Procesing Food is rooted in the fisheries environment of Juwana, Pati Regency, an area with fish landing, trading, processing and distribution activities. We aim to present smoked-fish products with attention to raw-material quality, processing, food safety and product handling through to consumers.",
+      "zh": "Praba Sea Procesing Food 扎根于Pati县Juwana的渔业环境。这里拥有渔获卸货、交易、加工和分销等活动。我们致力于提供烟熏鱼产品，并关注原料质量、加工过程、食品安全以及产品到达消费者前的管理。"
+    },
+    "about.caption.context": {
+      "id": "Visual konteks/ilustrasi — bukan dokumentasi aktual fasilitas Praba Sea Procesing Food.",
+      "en": "Contextual illustration — not an actual photograph of Praba Sea Procesing Food facilities.",
+      "zh": "背景/示意图——并非Praba Sea Procesing Food设施的实际照片。"
+    },
+    "about.identity.title": {
+      "id": "Mengenal Praba Sea Procesing Food",
+      "en": "Getting to Know Praba Sea Procesing Food",
+      "zh": "认识 Praba Sea Procesing Food"
+    },
+    "about.identity.p1": {
+      "id": "Praba Sea Procesing Food merupakan bagian dari ekosistem usaha pengolahan hasil perikanan yang berkembang di wilayah Juwana, Pati, Jawa Tengah.",
+      "en": "Praba Sea Procesing Food is part of the fisheries-processing business ecosystem developing in Juwana, Pati, Central Java.",
+      "zh": "Praba Sea Procesing Food 是中爪哇Pati Juwana渔业加工产业生态的一部分。"
+    },
+    "about.identity.p2": {
+      "id": "Lingkungan perikanan Juwana mempertemukan berbagai aktivitas, mulai dari pendaratan hasil tangkapan, pelelangan, perdagangan, pengangkutan, pengolahan hingga distribusi. Ekosistem tersebut menjadi konteks penting bagi berkembangnya usaha pengolahan ikan, termasuk produk ikan asap.",
+      "en": "Juwana's fisheries environment connects fish landings, auctions, trade, transport, processing and distribution. This ecosystem provides important context for fisheries-processing businesses, including smoked fish.",
+      "zh": "Juwana的渔业环境连接了渔获上岸、拍卖、贸易、运输、加工和分销。这一生态为包括烟熏鱼在内的渔业加工企业发展提供了重要背景。"
+    },
+    "about.identity.p3": {
+      "id": "Bagi Praba Sea Procesing Food, kualitas tidak hanya dipahami sebagai rasa akhir sebuah produk. Mutu dibangun sejak bahan baku diterima, bagaimana ikan ditangani, bagaimana proses pengolahan dilakukan, bagaimana kebersihan dijaga, bagaimana produk disimpan, hingga bagaimana produk didistribusikan kepada konsumen.",
+      "en": "For Praba Sea Procesing Food, quality is not only the final taste. Quality is built from receiving raw materials, handling fish, processing, hygiene, storage and distribution to consumers.",
+      "zh": "对Praba Sea Procesing Food而言，质量不仅是最终味道。质量从原料接收、鱼类处理、加工、卫生、储存到向消费者分销的全过程中建立。"
+    },
+    "about.juwana.title": {
+      "id": "Juwana & Pati: Ekosistem Perikanan yang Hidup",
+      "en": "Juwana & Pati: A Living Fisheries Ecosystem",
+      "zh": "Juwana与Pati：充满活力的渔业生态"
+    },
+    "about.juwana.text": {
+      "id": "Juwana merupakan salah satu kawasan penting dalam aktivitas perikanan Kabupaten Pati. Aktivitas perikanan di kawasan ini tidak hanya berkaitan dengan kapal dan hasil tangkapan, tetapi juga mencakup pelelangan, perdagangan, pengangkutan, penyimpanan, pengolahan, hingga distribusi. TPI dan kawasan Pelabuhan Perikanan Pantai Bajomulyo menjadi bagian dari ekosistem tersebut.",
+      "en": "Juwana is an important fisheries area in Pati Regency. Activities include vessels and catches as well as auctions, trade, transport, storage, processing and distribution. The Bajomulyo fish auction and coastal fishing-port area are part of this ecosystem.",
+      "zh": "Juwana是Pati县重要的渔业区域之一。活动不仅涉及渔船和渔获，还包括拍卖、贸易、运输、储存、加工和分销。Bajomulyo鱼类拍卖市场及沿海渔港区域是这一生态的一部分。"
+    },
+    "about.data.title": {
+      "id": "Skala Aktivitas Perikanan Juwana",
+      "en": "Scale of Juwana Fisheries Activity",
+      "zh": "Juwana渔业活动规模"
+    },
+    "about.data.lead": {
+      "id": "Angka berikut adalah data referensi wilayah dan contoh aktivitas pada waktu tertentu. Data tersebut bukan kapasitas produksi Praba.",
+      "en": "The figures below are regional reference data and examples of activity at specific times. They are not Praba production capacity.",
+      "zh": "以下数字是区域参考数据以及特定时间的活动示例，并非Praba的生产能力。"
+    },
+    "about.data.noteTitle": {
+      "id": "Catatan penting",
+      "en": "Important note",
+      "zh": "重要说明"
+    },
+    "about.data.note": {
+      "id": "Data di atas merupakan contoh aktivitas yang dilaporkan pada waktu tertentu dan tidak dapat ditafsirkan sebagai kapasitas tetap TPI maupun kapasitas produksi Praba Sea Procesing Food.",
+      "en": "The data above are examples of activity reported at specific times and must not be interpreted as fixed TPI capacity or Praba Sea Procesing Food production capacity.",
+      "zh": "以上数据是特定时间的活动示例，不应解释为TPI固定能力或Praba Sea Procesing Food生产能力。"
+    },
+    "about.four.title": {
+      "id": "Mutu Dibangun sebagai Satu Sistem",
+      "en": "Quality Is Built as One System",
+      "zh": "质量作为一个系统来建立"
+    },
+    "about.four.raw.title": {
+      "id": "Bahan Baku",
+      "en": "Raw Materials",
+      "zh": "原料"
+    },
+    "about.four.raw.text": {
+      "id": "Kesegaran, kondisi fisik, kebersihan, suhu, serta kecepatan penanganan menjadi bagian penting dalam menjaga kualitas ikan.",
+      "en": "Freshness, physical condition, cleanliness, temperature and prompt handling are important to maintaining fish quality.",
+      "zh": "新鲜度、物理状态、清洁度、温度和及时处理是保持鱼类质量的重要因素。"
+    },
+    "about.four.process.title": {
+      "id": "Pemrosesan & Pengasapan",
+      "en": "Processing & Smoking",
+      "zh": "加工与烟熏"
+    },
+    "about.four.process.text": {
+      "id": "Persiapan bahan, kebersihan peralatan, waktu, suhu, pengeringan, pengasapan, hingga pendinginan perlu dikelola secara terkendali.",
+      "en": "Preparation, equipment hygiene, time, temperature, drying, smoking and cooling need controlled management.",
+      "zh": "原料准备、设备卫生、时间、温度、干燥、烟熏和冷却都需要受控管理。"
+    },
+    "about.four.safety.title": {
+      "id": "Higiene & Keamanan Pangan",
+      "en": "Hygiene & Food Safety",
+      "zh": "卫生与食品安全"
+    },
+    "about.four.safety.text": {
+      "id": "Kebersihan tangan, peralatan, permukaan, air, wadah, dan lingkungan kerja membantu mencegah kontaminasi silang.",
+      "en": "Clean hands, equipment, surfaces, water, containers and work areas help prevent cross-contamination.",
+      "zh": "手部、设备、表面、水、容器和工作环境的清洁有助于防止交叉污染。"
+    },
+    "about.four.cold.title": {
+      "id": "Rantai Dingin & Distribusi",
+      "en": "Cold Chain & Distribution",
+      "zh": "冷链与分销"
+    },
+    "about.four.cold.text": {
+      "id": "Penyimpanan, pendinginan, pengangkutan, waktu distribusi, dan kondisi wadah turut berperan dalam mempertahankan mutu.",
+      "en": "Storage, cooling, transport, distribution time and container conditions also help maintain quality.",
+      "zh": "储存、冷却、运输、分销时间和容器状况也有助于保持质量。"
+    },
+    "about.raw.title": {
+      "id": "Bahan Baku: Mutu Dimulai dari Awal",
+      "en": "Raw Materials: Quality Starts at the Beginning",
+      "zh": "原料：质量始于源头"
+    },
+    "about.raw.text": {
+      "id": "Pemeriksaan awal dapat memperhatikan kesegaran, kondisi fisik, kebersihan, suhu, waktu penanganan, kerusakan fisik, serta kondisi ikan setelah didaratkan. Prinsip edukatif yang sederhana: cepat, bersih, dingin.",
+      "en": "Initial checks can consider freshness, physical condition, cleanliness, temperature, handling time, physical damage and the fish condition after landing. A simple educational principle: prompt, clean and cold.",
+      "zh": "初步检查可关注新鲜度、物理状态、清洁度、温度、处理时间、物理损伤以及上岸后的鱼况。简单的教育原则：快速、清洁、低温。"
+    },
+    "about.process.title": {
+      "id": "Pengasapan yang Terkendali",
+      "en": "Controlled Smoking",
+      "zh": "受控烟熏"
+    },
+    "about.process.text": {
+      "id": "Rangkaian edukatif proses meliputi penerimaan bahan, pemeriksaan, pembersihan, persiapan, pengeringan, pengasapan, pendinginan, dan penyimpanan.",
+      "en": "The educational process sequence includes receiving, inspection, cleaning, preparation, drying, smoking, cooling and storage.",
+      "zh": "教育性流程包括原料接收、检查、清洁、准备、干燥、烟熏、冷却和储存。"
+    },
+    "about.process.note": {
+      "id": "Suhu dan waktu pada halaman ini bukan standar internal Praba kecuali telah dikonfirmasi melalui data resmi.",
+      "en": "Temperatures and times on this page are not Praba internal standards unless confirmed by official company data.",
+      "zh": "本页温度和时间并非Praba内部标准，除非有公司正式数据确认。"
+    },
+    "about.iso9001.title": {
+      "id": "Membangun Sistem Mutu secara Bertahap",
+      "en": "Building a Quality System Step by Step",
+      "zh": "逐步建立质量管理体系"
+    },
+    "about.iso9001.text": {
+      "id": "Praba Sea Procesing Food menggunakan prinsip-prinsip sistem manajemen mutu ISO 9001 sebagai salah satu referensi dalam memahami bagaimana proses usaha dapat dikelola secara konsisten, terdokumentasi, terukur, dan terus diperbaiki.",
+      "en": "Praba Sea Procesing Food uses ISO 9001 quality-management principles as a reference for understanding how business processes can be managed consistently, documented, measured and continually improved.",
+      "zh": "Praba Sea Procesing Food参考ISO 9001质量管理原则，以理解如何一致、文件化、可衡量并持续改进地管理业务流程。"
+    },
+    "about.iso9001.status": {
+      "id": "Praba Sea Procesing Food saat ini belum memiliki sertifikasi ISO 9001. Namun, kami berkomitmen untuk secara bertahap membangun dan menyempurnakan sistem kerja yang selaras dengan prinsip-prinsip manajemen mutu ISO 9001 sebagai bagian dari pengembangan profesionalitas usaha dan kesiapan menuju proses sertifikasi apabila persyaratan serta kesiapan internal telah terpenuhi.",
+      "en": "Praba Sea Procesing Food is not currently ISO 9001 certified. We are committed to gradually building and improving work systems aligned with ISO 9001 quality-management principles as part of professional development and preparation for certification if requirements and internal readiness are met.",
+      "zh": "Praba Sea Procesing Food目前尚未获得ISO 9001认证。我们承诺逐步建立和完善与ISO 9001质量管理原则相一致的工作体系，并在条件和内部准备充分时，为认证过程做好准备。"
+    },
+    "about.iso14001.title": {
+      "id": "Tumbuh Bersama Lingkungan",
+      "en": "Growing with the Environment",
+      "zh": "与环境共同成长"
+    },
+    "about.iso14001.text": {
+      "id": "ISO 14001 digunakan sebagai referensi untuk memahami prinsip sistem manajemen lingkungan, termasuk pengelolaan aspek lingkungan dan peningkatan kinerja lingkungan secara berkelanjutan.",
+      "en": "ISO 14001 is used as a reference for understanding environmental-management principles, including managing environmental aspects and continually improving environmental performance.",
+      "zh": "ISO 14001用于参考环境管理原则，包括管理环境因素并持续改善环境绩效。"
+    },
+    "about.iso14001.status": {
+      "id": "Praba Sea Procesing Food saat ini belum memiliki sertifikasi ISO 14001. Meskipun demikian, kami berkomitmen untuk meningkatkan praktik pengelolaan lingkungan secara bertahap melalui penggunaan sumber daya yang lebih efisien, pengelolaan limbah, pencegahan pencemaran, dan peningkatan kesadaran lingkungan dalam kegiatan operasional.",
+      "en": "Praba Sea Procesing Food is not currently ISO 14001 certified. Nevertheless, we are committed to gradually improving environmental practices through more efficient resource use, waste management, pollution prevention and environmental awareness in operations.",
+      "zh": "Praba Sea Procesing Food目前尚未获得ISO 14001认证。尽管如此，我们承诺通过提高资源使用效率、废物管理、防止污染和提升运营环境意识，逐步改善环境管理实践。"
+    },
+    "about.quality.title": {
+      "id": "Mengenali Mutu Ikan",
+      "en": "Recognizing Fish Quality",
+      "zh": "认识鱼类品质"
+    },
+    "about.quality.lead": {
+      "id": "Pemeriksaan mutu dapat dimulai dari pengamatan karakteristik fisik, tetapi pemeriksaan visual bukan pengganti pengujian laboratorium atau pemeriksaan keamanan pangan.",
+      "en": "Quality checks can begin with physical characteristics, but visual inspection does not replace laboratory testing or food-safety inspection.",
+      "zh": "质量检查可以从观察物理特征开始，但视觉检查不能替代实验室检测或食品安全检查。"
+    },
+    "about.quality.eye": {
+      "id": "Ikan dengan kondisi baik umumnya memiliki mata yang jernih dan relatif cerah.",
+      "en": "Fish in good condition generally have relatively clear and bright eyes.",
+      "zh": "状态良好的鱼通常具有相对清澈、明亮的眼睛。"
+    },
+    "about.quality.gill": {
+      "id": "Perhatikan warna, kebersihan, lendir, dan bau.",
+      "en": "Observe color, cleanliness, mucus and odor.",
+      "zh": "观察颜色、清洁度、黏液和气味。"
+    },
+    "about.quality.flesh": {
+      "id": "Daging yang baik cenderung elastis dan tidak mudah hancur.",
+      "en": "Good flesh tends to be elastic and not easily broken apart.",
+      "zh": "良好的鱼肉通常具有弹性，不易碎裂。"
+    },
+    "about.quality.smell": {
+      "id": "Perhatikan aroma khas ikan dan tanda-tanda bau menyimpang.",
+      "en": "Observe the characteristic fish aroma and signs of abnormal odor.",
+      "zh": "注意鱼类特有气味以及异常气味迹象。"
+    },
+    "about.quality.surface": {
+      "id": "Perhatikan lendir, kerusakan fisik, perubahan warna, dan tanda pembusukan.",
+      "en": "Observe mucus, physical damage, color changes and signs of spoilage.",
+      "zh": "注意黏液、物理损伤、颜色变化和腐败迹象。"
+    },
+    "about.compare.title": {
+      "id": "Perbandingan Karakteristik Mutu",
+      "en": "Comparing Quality Characteristics",
+      "zh": "质量特征比较"
+    },
+    "about.safety.title": {
+      "id": "Keamanan Pangan: Mengendalikan Risiko",
+      "en": "Food Safety: Controlling Risks",
+      "zh": "食品安全：控制风险"
+    },
+    "about.histamine": {
+      "id": "Untuk jenis ikan tertentu, histamin dapat menjadi risiko yang perlu dikendalikan melalui penanganan suhu dan waktu yang tepat. Penjelasan ini bersifat edukatif dan bukan klaim bahwa produk Praba bebas histamin.",
+      "en": "For certain fish species, histamine can be a risk that requires appropriate temperature and time control. This is educational information, not a claim that Praba products are histamine-free.",
+      "zh": "对于某些鱼类，组胺可能成为需要通过适当温度和时间控制来管理的风险。本说明用于教育，不代表Praba产品不含组胺。"
+    },
+    "about.cold.title": {
+      "id": "Rantai Dingin & Distribusi",
+      "en": "Cold Chain & Distribution",
+      "zh": "冷链与分销"
+    },
+    "about.cold.text": {
+      "id": "Penanganan ikan tidak berhenti setelah proses pengolahan. Pendinginan, penyimpanan, transportasi, pemantauan suhu, kebersihan wadah, dan waktu distribusi turut berperan dalam mempertahankan mutu.",
+      "en": "Fish handling does not end after processing. Cooling, storage, transport, temperature monitoring, container hygiene and distribution time all contribute to maintaining quality.",
+      "zh": "鱼类处理不会在加工后结束。冷却、储存、运输、温度监测、容器卫生和分销时间都对保持质量发挥作用。"
+    },
+    "about.fifo.title": {
+      "id": "Sistem Penyimpanan FIFO",
+      "en": "FIFO Storage System",
+      "zh": "FIFO储存系统"
+    },
+    "about.fifo.text": {
+      "id": "FIFO — First In, First Out berarti produk yang masuk lebih dahulu diprioritaskan untuk digunakan atau dikeluarkan lebih dahulu, dengan tetap memperhatikan kondisi produk dan ketentuan masa simpannya.",
+      "en": "FIFO — First In, First Out means products that enter first are prioritized for use or dispatch first, while considering product condition and applicable shelf-life requirements.",
+      "zh": "FIFO——先进先出，表示先入库的产品优先使用或出库，同时考虑产品状态和适用的保质期要求。"
+    },
+    "about.commit.title": {
+      "id": "Komitmen Kami",
+      "en": "Our Commitment",
+      "zh": "我们的承诺"
+    },
+    "about.commit.text": {
+      "id": "Praba Sea Procesing Food berkomitmen untuk terus meningkatkan kualitas produk, konsistensi proses, keamanan pangan, efisiensi operasional, serta kepedulian terhadap lingkungan.",
+      "en": "Praba Sea Procesing Food is committed to continuously improving product quality, process consistency, food safety, operational efficiency and environmental responsibility.",
+      "zh": "Praba Sea Procesing Food致力于持续提升产品质量、流程一致性、食品安全、运营效率和环境责任。"
+    },
+    "about.references.title": {
+      "id": "Referensi & Sumber",
+      "en": "References & Sources",
+      "zh": "参考资料与来源"
+    },
+    "about.hero.metric.location": {
+      "id": "Pati, Jawa Tengah",
+      "en": "Pati, Central Java",
+      "zh": "中爪哇 Pati"
+    },
+    "about.hero.metric.flow": {
+      "id": "alur mutu",
+      "en": "quality flow",
+      "zh": "质量流程"
+    },
+    "about.hero.metric.languages": {
+      "id": "bahasa",
+      "en": "languages",
+      "zh": "语言"
+    },
+    "about.juwana.card1.title": {
+      "id": "TPI Bajomulyo",
+      "en": "Bajomulyo Fish Auction",
+      "zh": "Bajomulyo 鱼类拍卖市场"
+    },
+    "about.juwana.card1.text": {
+      "id": "Aktivitas pelelangan dan perdagangan hasil perikanan.",
+      "en": "Fish auction and fisheries-trade activity.",
+      "zh": "渔获拍卖与渔业贸易活动。"
+    },
+    "about.juwana.card2.title": {
+      "id": "PPP Bajomulyo",
+      "en": "Bajomulyo Coastal Fishing Port",
+      "zh": "Bajomulyo 沿海渔港"
+    },
+    "about.juwana.card2.text": {
+      "id": "Kawasan pelabuhan yang menjadi bagian dari ekosistem perikanan.",
+      "en": "A port area that forms part of the fisheries ecosystem.",
+      "zh": "构成渔业生态一部分的港口区域。"
+    },
+    "about.juwana.card3.title": {
+      "id": "Rantai aktivitas",
+      "en": "Activity chain",
+      "zh": "活动链"
+    },
+    "about.juwana.card3.text": {
+      "id": "Pendaratan → perdagangan → pengolahan → distribusi.",
+      "en": "Landing → trade → processing → distribution.",
+      "zh": "上岸 → 贸易 → 加工 → 分销。"
+    },
+    "about.quality.eye.title": {
+      "id": "Mata",
+      "en": "Eyes",
+      "zh": "眼睛"
+    },
+    "about.quality.gill.title": {
+      "id": "Insang",
+      "en": "Gills",
+      "zh": "鳃"
+    },
+    "about.quality.flesh.title": {
+      "id": "Daging",
+      "en": "Flesh",
+      "zh": "鱼肉"
+    },
+    "about.quality.smell.title": {
+      "id": "Bau",
+      "en": "Odor",
+      "zh": "气味"
+    },
+    "about.quality.surface.title": {
+      "id": "Permukaan",
+      "en": "Surface",
+      "zh": "表面"
+    },
+    "about.compare.good": {
+      "id": "INDIKASI KONDISI BAIK",
+      "en": "INDICATION OF GOOD CONDITION",
+      "zh": "良好状态迹象"
+    },
+    "about.compare.decline": {
+      "id": "INDIKASI PENURUNAN MUTU",
+      "en": "INDICATION OF QUALITY DECLINE",
+      "zh": "品质下降迹象"
+    },
+    "about.compare.eye.good": {
+      "id": "Mata relatif jernih dan cerah.",
+      "en": "Eyes are relatively clear and bright.",
+      "zh": "眼睛相对清澈明亮。"
+    },
+    "about.compare.eye.decline": {
+      "id": "Mata dapat tampak kurang jernih atau kusam.",
+      "en": "Eyes may appear less clear or dull.",
+      "zh": "眼睛可能显得不够清澈或暗淡。"
+    },
+    "about.compare.gill.good": {
+      "id": "Amati warna dan kebersihan secara keseluruhan.",
+      "en": "Observe overall color and cleanliness.",
+      "zh": "观察整体颜色和清洁度。"
+    },
+    "about.compare.gill.decline": {
+      "id": "Perubahan warna, lendir atau bau menyimpang perlu diperhatikan.",
+      "en": "Changes in color, mucus or abnormal odor should be noted.",
+      "zh": "应注意颜色、黏液或异常气味的变化。"
+    },
+    "about.compare.flesh.good": {
+      "id": "Tekstur relatif elastis dan tidak mudah hancur.",
+      "en": "Texture is relatively elastic and not easily broken apart.",
+      "zh": "质地相对有弹性，不易碎裂。"
+    },
+    "about.compare.flesh.decline": {
+      "id": "Tekstur dapat melunak atau berubah warna.",
+      "en": "Texture may soften or change color.",
+      "zh": "质地可能变软或颜色发生变化。"
+    },
+    "about.compare.surface.good": {
+      "id": "Permukaan diperiksa untuk kebersihan dan kerusakan fisik.",
+      "en": "Inspect the surface for cleanliness and physical damage.",
+      "zh": "检查表面的清洁度和物理损伤。"
+    },
+    "about.compare.surface.decline": {
+      "id": "Lendir berlebih, perubahan warna, kerusakan atau tanda pembusukan perlu diperhatikan.",
+      "en": "Excess mucus, discoloration, damage or spoilage signs should be noted.",
+      "zh": "应注意过多黏液、变色、损伤或腐败迹象。"
+    },
+    "about.disclaimer.title": {
+      "id": "Disclaimer edukasi",
+      "en": "Educational disclaimer",
+      "zh": "教育免责声明"
+    },
+    "about.disclaimer.text": {
+      "id": "Ilustrasi digunakan untuk tujuan edukasi. Pemeriksaan visual tidak menggantikan pengujian laboratorium atau pemeriksaan keamanan pangan.",
+      "en": "Illustrations are for educational purposes. Visual inspection does not replace laboratory testing or food-safety inspection.",
+      "zh": "插图仅用于教育目的。视觉检查不能替代实验室检测或食品安全检查。"
+    },
+    "about.security.biological": {
+      "id": "Biologis",
+      "en": "Biological",
+      "zh": "生物性"
+    },
+    "about.security.chemical": {
+      "id": "Kimia",
+      "en": "Chemical",
+      "zh": "化学性"
+    },
+    "about.security.physical": {
+      "id": "Fisik",
+      "en": "Physical",
+      "zh": "物理性"
+    },
+    "about.security.biological.text": {
+      "id": "Bakteri, virus, dan parasit.",
+      "en": "Bacteria, viruses and parasites.",
+      "zh": "细菌、病毒和寄生虫。"
+    },
+    "about.security.chemical.text": {
+      "id": "Residu, kontaminan kimia, logam berat, dan bahan kimia yang tidak sesuai.",
+      "en": "Residues, chemical contaminants, heavy metals and inappropriate chemicals.",
+      "zh": "残留物、化学污染物、重金属和不适当化学物质。"
+    },
+    "about.security.physical.text": {
+      "id": "Serpihan, benda asing, dan material peralatan.",
+      "en": "Fragments, foreign objects and equipment materials.",
+      "zh": "碎片、异物和设备材料。"
+    },
+    "about.cold.reference": {
+      "id": "Referensi KKP",
+      "en": "KKP reference",
+      "zh": "KKP 参考"
+    },
+    "about.cold.temp": {
+      "id": "KKP menjelaskan rantai dingin ikan segar sekitar 0–4°C sebagai referensi penanganan.",
+      "en": "KKP describes a cold chain for fresh fish of around 0–4°C as a handling reference.",
+      "zh": "KKP 将新鲜鱼类约 0–4°C 的冷链作为处理参考。"
+    },
+    "about.cold.note": {
+      "id": "Angka tersebut bukan klaim prosedur internal Praba.",
+      "en": "This figure is not a claim about Praba internal procedures.",
+      "zh": "该数值并非 Praba 内部程序的声明。"
+    },
+    "about.cold.link": {
+      "id": "Lihat sumber KKP →",
+      "en": "View KKP source →",
+      "zh": "查看 KKP 来源 →"
+    },
+    "about.fifo.record": {
+      "id": "Catatan stok",
+      "en": "Stock records",
+      "zh": "库存记录"
+    },
+    "about.fifo.recordList": {
+      "id": "Tanggal masuk|Tanggal produksi|Kode batch|Kondisi penyimpanan|Tanggal keluar|Pemeriksaan stok",
+      "en": "Entry date|Production date|Batch code|Storage condition|Exit date|Stock check",
+      "zh": "入库日期|生产日期|批次代码|储存条件|出库日期|库存检查"
+    },
+    "about.fifo.fefo": {
+      "id": "First Expired, First Out",
+      "en": "First Expired, First Out",
+      "zh": "先到期先出"
+    },
+    "about.fifo.fefoText": {
+      "id": "FEFO dapat diterapkan ketika produk memiliki batas kedaluwarsa atau masa simpan yang relevan.",
+      "en": "FEFO can be applied when products have a relevant expiry date or shelf-life.",
+      "zh": "当产品具有相关有效期或保质期时，可以采用 FEFO。"
+    },
+    "about.references.lead": {
+      "id": "Transparansi sumber membantu membedakan data wilayah, referensi standar, ilustrasi, dan informasi Praba.",
+      "en": "Source transparency helps distinguish regional data, standards references, illustrations and Praba information.",
+      "zh": "来源透明度有助于区分区域数据、标准参考、插图和 Praba 信息。"
+    },
+    "about.iso.heading": {
+      "id": "Sistem profesional, dinyatakan secara transparan.",
+      "en": "Professional systems, transparently stated.",
+      "zh": "专业体系，透明呈现。"
+    },
+    "about.iso9001.badge": {
+      "id": "BELUM BERSERTIFIKAT",
+      "en": "NOT CERTIFIED",
+      "zh": "尚未认证"
+    },
+    "about.iso14001.badge": {
+      "id": "BELUM BERSERTIFIKAT",
+      "en": "NOT CERTIFIED",
+      "zh": "尚未认证"
+    },
+    "about.iso9001.link": {
+      "id": "Lihat sumber ISO 9001 →",
+      "en": "View ISO 9001 source →",
+      "zh": "查看 ISO 9001 来源 →"
+    },
+    "about.iso14001.link": {
+      "id": "Lihat sumber ISO 14001 →",
+      "en": "View ISO 14001 source →",
+      "zh": "查看 ISO 14001 来源 →"
+    },
+    "about.four.subtitle": {
+      "id": "Mutu adalah rantai, bukan satu langkah.",
+      "en": "Quality is a chain, not a single step.",
+      "zh": "质量是一条链，而不是单一步骤。"
+    },
+    "about.command.title": {
+      "id": "Mengenal Praba dalam satu alur",
+      "en": "Praba, explained in one flow",
+      "zh": "一条脉络认识 Praba"
+    },
+    "about.command.identity": {
+      "id": "Identitas",
+      "en": "Identity",
+      "zh": "品牌"
+    },
+    "about.command.juwana": {
+      "id": "Juwana",
+      "en": "Juwana",
+      "zh": "Juwana"
+    },
+    "about.command.quality": {
+      "id": "Sistem Mutu",
+      "en": "Quality System",
+      "zh": "质量体系"
+    },
+    "about.command.qualitycheck": {
+      "id": "Mutu Ikan",
+      "en": "Fish Quality",
+      "zh": "鱼类质量"
+    },
+    "about.command.safety": {
+      "id": "Keamanan",
+      "en": "Food Safety",
+      "zh": "食品安全"
+    },
+    "about.command.cold": {
+      "id": "Rantai Dingin",
+      "en": "Cold Chain",
+      "zh": "冷链"
+    },
+    "about.command.fifo": {
+      "id": "FIFO",
+      "en": "FIFO",
+      "zh": "FIFO"
+    },
+    "about.manifesto.title": {
+      "id": "Mutu yang dapat dijelaskan, bukan sekadar diklaim.",
+      "en": "Quality that can be explained, not simply claimed.",
+      "zh": "质量应当可以解释，而不只是声称。"
+    },
+    "about.manifesto.text": {
+      "id": "Kami menempatkan mutu sebagai rangkaian keputusan yang dapat dipahami: bahan baku diperiksa, proses dikelola, kebersihan dijaga, penyimpanan diperhatikan, dan informasi sumber dibedakan secara transparan.",
+      "en": "We treat quality as a sequence of understandable decisions: raw materials are checked, processes are managed, hygiene is maintained, storage is considered, and source information is distinguished transparently.",
+      "zh": "我们将质量视为一系列可理解的决策：检查原料、管理过程、维护卫生、关注储存，并透明地区分来源信息。"
+    },
+    "about.manifesto.p1": {
+      "id": "Data dibedakan dari klaim internal.",
+      "en": "Data is distinguished from internal claims.",
+      "zh": "数据与内部声明相区分。"
+    },
+    "about.manifesto.p2": {
+      "id": "Ilustrasi diberi penanda yang jelas.",
+      "en": "Illustrations are clearly identified.",
+      "zh": "插图均有明确标识。"
+    },
+    "about.manifesto.p3": {
+      "id": "Standar digunakan sebagai referensi, bukan klaim sertifikasi.",
+      "en": "Standards are used as references, not certification claims.",
+      "zh": "标准作为参考使用，而非认证声明。"
+    },
+    "common.ingredients": {
+      "id": "Bahan",
+      "en": "Ingredients",
+      "zh": "食材"
+    },
+    "common.method": {
+      "id": "Cara membuat",
+      "en": "Method",
+      "zh": "做法"
+    },
+    "common.recipeDetails": {
+      "id": "Bahan & cara membuat",
+      "en": "Ingredients & method",
+      "zh": "食材与做法"
+    },
+    "common.minutes": {
+      "id": "menit",
+      "en": "min",
+      "zh": "分钟"
+    },
+    "common.servings": {
+      "id": "porsi",
+      "en": "servings",
+      "zh": "份"
+    },
+    "common.illustration": {
+      "id": "Ilustrasi",
+      "en": "Illustration",
+      "zh": "插图"
+    },
+    "common.referenceImage": {
+      "id": "Referensi visual — bukan foto aktual Praba",
+      "en": "Visual reference — not an actual Praba photo",
+      "zh": "视觉参考——并非 Praba 实拍照片"
+    },
+    "footer.tagline": {
+      "id": "Lezatnya ikan asap, disajikan dengan informasi yang jelas dan jujur.",
+      "en": "Smoked fish with clear, honest information.",
+      "zh": "烟熏鱼，以清晰、诚实的信息相伴。"
+    },
+    "footer.contact": {
+      "id": "Kontak",
+      "en": "Contact",
+      "zh": "联系"
+    },
+    "footer.location": {
+      "id": "Lokasi",
+      "en": "Location",
+      "zh": "地址"
+    },
+    "footer.address": {
+      "id": "Desa Doropayung, Kecamatan Juwana, Kabupaten Pati, Provinsi Jawa Tengah, Indonesia",
+      "en": "Doropayung Village, Juwana District, Pati Regency, Central Java, Indonesia",
+      "zh": "印度尼西亚中爪哇省巴蒂县朱瓦纳区多罗巴尤村"
+    },
+    "footer.whatsapp": {
+      "id": "WhatsApp",
+      "en": "WhatsApp",
+      "zh": "WhatsApp"
+    },
+    "footer.email": {
+      "id": "Email",
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "footer.instagram": {
+      "id": "Instagram",
+      "en": "Instagram",
+      "zh": "Instagram"
+    },
+    "footer.tiktok": {
+      "id": "TikTok",
+      "en": "TikTok",
+      "zh": "TikTok"
+    },
+    "footer.hours": {
+      "id": "Jam layanan: 08.00–21.00",
+      "en": "Service hours: 08:00–21:00",
+      "zh": "服务时间：08:00–21:00"
+    },
+    "footer.navigation": {
+      "id": "Navigasi",
+      "en": "Navigation",
+      "zh": "导航"
+    },
+    "footer.language": {
+      "id": "Bahasa",
+      "en": "Language",
+      "zh": "语言"
+    },
+    "footer.order": {
+      "id": "Pesan via WhatsApp",
+      "en": "Order via WhatsApp",
+      "zh": "通过 WhatsApp 订购"
+    },
+    "footer.legal": {
+      "id": "Legalitas dan sertifikasi usaha sedang dalam proses pengembangan dan pemenuhan persyaratan.",
+      "en": "Business licensing and certification are under development and requirements are being fulfilled.",
+      "zh": "企业许可与认证正在完善并按要求办理。"
+    },
+    "error.title": {
+      "id": "Halaman tidak ditemukan.",
+      "en": "Page not found.",
+      "zh": "找不到页面。"
+    },
+    "error.text": {
+      "id": "Halaman yang Anda cari mungkin sudah dipindahkan atau belum tersedia.",
+      "en": "The page you are looking for may have moved or is not available.",
+      "zh": "您查找的页面可能已移动或暂不可用。"
+    },
+    "error.home": {
+      "id": "Kembali ke Beranda",
+      "en": "Back to Home",
+      "zh": "返回首页"
+    },
+    "home.feature1.title": {
+      "id": "Bahan Baku Berkualitas",
+      "en": "Quality Raw Materials",
+      "zh": "优质原料"
+    },
+    "home.feature1.text": {
+      "id": "Memilih bahan baku yang baik sebagai bagian dari upaya menjaga mutu produk.",
+      "en": "Selecting good raw materials as part of maintaining product quality.",
+      "zh": "选择优质原料是维护产品质量的一部分。"
+    },
+    "home.feature2.title": {
+      "id": "Proses Pengasapan",
+      "en": "Smoking Process",
+      "zh": "烟熏过程"
+    },
+    "home.feature2.text": {
+      "id": "Pengasapan dilakukan sebagai bagian utama dalam pengolahan ikan asap Praba.",
+      "en": "Smoking is a core part of Praba smoked-fish processing.",
+      "zh": "烟熏是 Praba 烟熏鱼加工的核心环节。"
+    },
+    "home.feature3.title": {
+      "id": "Perhatian pada Mutu",
+      "en": "Quality Focus",
+      "zh": "重视品质"
+    },
+    "home.feature3.text": {
+      "id": "Proses pengolahan dilakukan dengan perhatian pada mutu dan penyimpanan produk.",
+      "en": "Processing is carried out with attention to quality and product storage.",
+      "zh": "加工过程重视产品质量与储存。"
+    },
+    "home.feature4.title": {
+      "id": "Untuk Beragam Pelanggan",
+      "en": "For Different Customers",
+      "zh": "服务不同客户"
+    },
+    "home.feature4.text": {
+      "id": "Melayani pembelian rumah tangga, usaha kuliner, pedagang, dan pesanan dalam jumlah besar.",
+      "en": "Serving households, culinary businesses, traders and large-volume orders.",
+      "zh": "服务家庭、餐饮企业、商贩及大宗订单。"
+    },
+    "home.productLead": {
+      "id": "Jenis produk dan ketersediaan dapat berubah mengikuti stok. Hubungi Praba untuk daftar produk terbaru.",
+      "en": "Products and availability may change with stock. Contact Praba for the latest product list.",
+      "zh": "产品种类和供应情况可能随库存变化。请联系 Praba 获取最新产品清单。"
+    },
+    "home.viewAllProducts": {
+      "id": "Lihat halaman produk lengkap →",
+      "en": "View full product page →",
+      "zh": "查看完整产品页面 →"
+    },
+    "home.aboutLabel": {
+      "id": "TENTANG PRABA",
+      "en": "ABOUT PRABA",
+      "zh": "关于 PRABA"
+    },
+    "home.aboutTitle": {
+      "id": "Berangkat dari Juwana, mengolah ikan menjadi produk.",
+      "en": "From Juwana, turning fish into products.",
+      "zh": "从 Juwana 出发，将鱼加工成产品。"
+    },
+    "home.aboutP1": {
+      "id": "Praba Sea Procesing Food berdiri pada 2026 di Desa Doropayung, Kecamatan Juwana, Kabupaten Pati.",
+      "en": "Praba Sea Procesing Food was established in 2026 in Doropayung Village, Juwana District, Pati Regency.",
+      "zh": "Praba Sea Procesing Food 于2026年成立于印度尼西亚Pati县Juwana区Doropayung村。"
+    },
+    "home.aboutP2": {
+      "id": "Praba hadir karena potensi lokasi yang strategis dalam industri perikanan, dengan fokus pada pengolahan ikan asap dan pengembangan produk olahan ikan lainnya.",
+      "en": "Praba was established because of the location’s strategic potential in the fisheries industry, focusing on smoked fish and future processed-fish products.",
+      "zh": "Praba 源于该地区在渔业产业中的战略位置，专注于烟熏鱼加工，并计划发展其他鱼类加工产品。"
+    },
+    "home.aboutLink": {
+      "id": "Kenali Praba lebih dekat →",
+      "en": "Learn more about Praba →",
+      "zh": "进一步了解 Praba →"
+    },
+    "home.journalLabel": {
+      "id": "PRABA JOURNAL",
+      "en": "PRABA JOURNAL",
+      "zh": "PRABA JOURNAL"
+    },
+    "home.journalTitle": {
+      "id": "Cerita, tips & inspirasi.",
+      "en": "Stories, tips & inspiration.",
+      "zh": "故事、技巧与灵感。"
+    },
+    "home.viewAllArticles": {
+      "id": "Lihat semua artikel →",
+      "en": "View all articles →",
+      "zh": "查看所有文章 →"
+    },
+    "home.article1.image": {
+      "id": "PROSES PENGASAPAN",
+      "en": "SMOKING PROCESS",
+      "zh": "烟熏过程"
+    },
+    "home.article1.category": {
+      "id": "PROSES PRODUKSI",
+      "en": "PRODUCTION PROCESS",
+      "zh": "生产过程"
+    },
+    "home.article1.title": {
+      "id": "Mengenal Pengasapan Ikan",
+      "en": "Understanding Fish Smoking",
+      "zh": "了解鱼类烟熏"
+    },
+    "home.article1.text": {
+      "id": "Bagaimana pengasapan memberi karakter aroma, warna, rasa, dan membantu pengawetan.",
+      "en": "How smoking shapes aroma, color and flavor while supporting preservation.",
+      "zh": "烟熏如何形成香气、色泽和风味，并有助于保存。"
+    },
+    "home.article2.image": {
+      "id": "MUTU IKAN",
+      "en": "FISH QUALITY",
+      "zh": "鱼类质量"
+    },
+    "home.article2.category": {
+      "id": "TIPS & INFORMASI",
+      "en": "TIPS & INFORMATION",
+      "zh": "技巧与信息"
+    },
+    "home.article2.title": {
+      "id": "Memilih Ikan dengan Mutu Baik",
+      "en": "Choosing Fish of Good Quality",
+      "zh": "选择品质良好的鱼"
+    },
+    "home.article2.text": {
+      "id": "Beberapa tanda kesegaran ikan yang disampaikan oleh KKP.",
+      "en": "Some fish-freshness indicators described by KKP.",
+      "zh": "KKP介绍的一些鱼类新鲜度指标。"
+    },
+    "home.article3.image": {
+      "id": "JUWANA • PATI",
+      "en": "JUWANA • PATI",
+      "zh": "JUWANA • PATI"
+    },
+    "home.article3.category": {
+      "id": "CERITA LOKAL",
+      "en": "LOCAL STORY",
+      "zh": "地方故事"
+    },
+    "home.article3.title": {
+      "id": "Juwana dan Dunia Perikanan",
+      "en": "Juwana and Fisheries",
+      "zh": "Juwana与渔业"
+    },
+    "home.article3.text": {
+      "id": "Melihat konteks perikanan dan pengolahan hasil tangkap di Pati.",
+      "en": "Exploring fisheries and catch-processing context in Pati.",
+      "zh": "了解Pati的渔业与渔获加工背景。"
+    },
+    "home.recipeLink": {
+      "id": "Lihat semua resep →",
+      "en": "View all recipes →",
+      "zh": "查看全部食谱 →"
+    },
+    "home.recipeLead": {
+      "id": "Inspirasi mangut, sambal matah, rica-rica, balado, sambal ijo, kecap, woku, pepes, nasi goreng, dan tumis petai.",
+      "en": "Ideas for mangut, sambal matah, rica-rica, balado, green chili, sweet soy, woku, pepes, fried rice and petai stir-fry.",
+      "zh": "提供 mangut、sambal matah、rica-rica、balado、青辣椒、甜酱油、woku、pepes、炒饭和臭豆炒菜等灵感。"
+    },
+    "common.aiFoodNote": {
+      "id": "Visual makanan pada website dibuat dengan AI sebagai ilustrasi; foto tidak mewakili produk aktual Praba.",
+      "en": "Food visuals on this website are AI-generated illustrations and do not represent actual Praba products.",
+      "zh": "网站中的食物视觉内容由AI生成，仅作插图，不代表 Praba 实际产品。"
+    },
+    "home.ctaTitle": {
+      "id": "Ingin mengetahui produk yang tersedia?",
+      "en": "Want to know what products are available?",
+      "zh": "想了解目前有哪些产品？"
+    },
+    "home.ctaText": {
+      "id": "Hubungi Praba untuk ketersediaan, harga, dan pemesanan.",
+      "en": "Contact Praba for availability, prices and orders.",
+      "zh": "请联系 Praba 了解供应、价格和订购。"
+    },
+    "home.visualNote": {
+      "id": "Visual ilustrasi proses pengasapan • bukan foto fasilitas Praba",
+      "en": "Illustration of the smoking process • not a photo of Praba facilities",
+      "zh": "烟熏过程插图 • 并非 Praba 设施实拍照片"
+    },
+    "blog.searchTitle": {
+      "id": "Cari Artikel",
+      "en": "Search Articles",
+      "zh": "搜索文章"
+    },
+    "blog.searchPlaceholder": {
+      "id": "Ketik kata kunci...",
+      "en": "Enter keywords...",
+      "zh": "输入关键词…"
+    },
+    "blog.categoryTitle": {
+      "id": "Kategori",
+      "en": "Categories",
+      "zh": "分类"
+    },
+    "blog.catProduction": {
+      "id": "Proses Produksi",
+      "en": "Production Process",
+      "zh": "生产过程"
+    },
+    "blog.catTips": {
+      "id": "Tips & Informasi",
+      "en": "Tips & Information",
+      "zh": "技巧与信息"
+    },
+    "blog.catLocal": {
+      "id": "Cerita Lokal",
+      "en": "Local Stories",
+      "zh": "地方故事"
+    },
+    "blog.catPraba": {
+      "id": "Cerita Praba",
+      "en": "Praba Stories",
+      "zh": "Praba 故事"
+    },
+    "blog.orderTitle": {
+      "id": "Pesan Produk",
+      "en": "Order Products",
+      "zh": "订购产品"
+    },
+    "blog.orderText": {
+      "id": "Ingin mengetahui stok dan harga hari ini?",
+      "en": "Want to know today’s stock and prices?",
+      "zh": "想了解今天的库存和价格？"
+    },
+    "blog.orderButton": {
+      "id": "WhatsApp Kami",
+      "en": "WhatsApp Us",
+      "zh": "联系 WhatsApp"
+    },
+    "blog.ctaTitle": {
+      "id": "Ingin mencoba rasa laut pilihan?",
+      "en": "Want to try distinctive flavors of the sea?",
+      "zh": "想尝试独特的海洋风味吗？"
+    },
+    "blog.ctaText": {
+      "id": "Hubungi Praba untuk informasi produk terbaru.",
+      "en": "Contact Praba for the latest product information.",
+      "zh": "联系 Praba 获取最新产品信息。"
+    },
+    "blog.ctaButton": {
+      "id": "Hubungi Praba",
+      "en": "Contact Praba",
+      "zh": "联系 Praba"
+    },
+    "recipe.beforeTitle": {
+      "id": "SEBELUM MEMASAK",
+      "en": "BEFORE COOKING",
+      "zh": "烹饪前"
+    },
+    "recipe.beforeText": {
+      "id": "Ikan asap tidak harus selalu digoreng. Karakter gurih dan aroma asap dapat dipadukan dengan sambal segar, bumbu rempah, santan, atau sayuran.",
+      "en": "Smoked fish does not always have to be fried. Its savory character and smoky aroma can be paired with fresh sambal, spices, coconut milk or vegetables.",
+      "zh": "烟熏鱼不一定要油炸。其鲜香与烟熏香气可以搭配新鲜辣椒酱、香料、椰奶或蔬菜。"
+    },
+    "recipe.referenceLabel": {
+      "id": "REFERENSI RESEP",
+      "en": "RECIPE REFERENCES",
+      "zh": "食谱参考"
+    },
+    "recipe.referenceTitle": {
+      "id": "Dikembangkan dari referensi kuliner.",
+      "en": "Developed from culinary references.",
+      "zh": "参考烹饪资料开发。"
+    },
+    "recipe.referenceText": {
+      "id": "Resep di atas bukan salinan dari satu sumber. Komposisi dan langkahnya diringkas serta ditulis ulang oleh Praba sebagai materi inspirasi.",
+      "en": "The recipes above are not copies from a single source. Ingredients and steps have been summarized and rewritten by Praba as inspiration.",
+      "zh": "以上食谱并非复制单一来源。配料和步骤由 Praba 汇总并重新编写，仅作灵感参考。"
+    },
+    "recipe.ctaLabel": {
+      "id": "INGIN MENCOBA?",
+      "en": "WANT TO TRY?",
+      "zh": "想尝试吗？"
+    },
+    "recipe.ctaTitle": {
+      "id": "Pesan ikan asap Praba.",
+      "en": "Order Praba smoked fish.",
+      "zh": "订购 Praba 烟熏鱼。"
+    },
+    "recipe.ctaText": {
+      "id": "Tanyakan stok dan produk yang tersedia hari ini.",
+      "en": "Ask about today’s stock and available products.",
+      "zh": "咨询今天的库存和可供应产品。"
+    },
+    "recipe.visualNote": {
+      "id": "Visual kuliner di halaman ini dibuat dengan AI sebagai ilustrasi. Gambar tidak mewakili foto produk aktual Praba dan dapat diganti dengan foto produk resmi.",
+      "en": "Culinary visuals on this page are AI-generated illustrations. They do not represent actual Praba product photos and may be replaced with official product photos.",
+      "zh": "本页餐饮视觉内容由AI生成，仅作插图，不代表 Praba 实际产品照片，未来可替换为官方产品照片。"
+    },
+    "contact.cardTitle": {
+      "id": "Hubungi kami",
+      "en": "Contact us",
+      "zh": "联系我们"
+    },
+    "contact.chat": {
+      "id": "Chat WhatsApp",
+      "en": "Chat on WhatsApp",
+      "zh": "通过 WhatsApp 聊天"
+    },
+    "contact.orderInfoLabel": {
+      "id": "INFORMASI PEMESANAN",
+      "en": "ORDER INFORMATION",
+      "zh": "订购信息"
+    },
+    "contact.orderInfoTitle": {
+      "id": "Pesan sesuai kebutuhan",
+      "en": "Order according to your needs",
+      "zh": "按需订购"
+    },
+    "contact.order1": {
+      "id": "Produk utama: Asap Kepala Ikan berbahan ikan jahan.",
+      "en": "Main product: Smoked Fish Head made from jahan fish.",
+      "zh": "主要产品：Jahan鱼烟熏鱼头。"
+    },
+    "contact.order2": {
+      "id": "Tersedia ukuran kecil, sedang, dan besar dengan minimum pembelian masing-masing.",
+      "en": "Small, medium and large sizes are available with minimum purchase quantities for each.",
+      "zh": "提供小、中、大三种规格，每种规格有相应最低购买量。"
+    },
+    "contact.order3": {
+      "id": "Pembelian langsung di lokasi dan pemesanan melalui WhatsApp.",
+      "en": "Direct purchase at the location and orders via WhatsApp.",
+      "zh": "支持现场购买及通过 WhatsApp 订购。"
+    },
+    "contact.order4": {
+      "id": "Pesanan dalam jumlah besar dapat dibicarakan berdasarkan jumlah dan ketersediaan.",
+      "en": "Large orders can be discussed based on quantity and availability.",
+      "zh": "大宗订单可根据数量和供应情况协商。"
+    },
+    "contact.order5": {
+      "id": "Pengiriman reguler menggunakan motor.",
+      "en": "Regular delivery is by motorbike.",
+      "zh": "常规配送使用摩托车。"
+    },
+    "contact.largeNote": {
+      "id": "Untuk pesanan besar, setelah jumlah dan ketersediaan disepakati, diperlukan pembayaran awal sebesar 30% dari total pembelian.",
+      "en": "For large orders, once quantity and availability are agreed, an upfront payment of 30% of the total purchase is required.",
+      "zh": "大宗订单在数量和供应确认后，需要支付订单总额30%的预付款。"
+    },
+    "contact.flowLabel": {
+      "id": "ALUR PEMESANAN",
+      "en": "ORDERING PROCESS",
+      "zh": "订购流程"
+    },
+    "contact.flowTitle": {
+      "id": "Mulai dari kebutuhan Anda.",
+      "en": "Start with what you need.",
+      "zh": "从您的需求开始。"
+    },
+    "contact.flowLead": {
+      "id": "Hubungi Praba untuk mengecek ketersediaan, memilih ukuran, dan membicarakan kebutuhan pesanan.",
+      "en": "Contact Praba to check availability, choose a size and discuss your order needs.",
+      "zh": "联系 Praba 查询供应、选择规格并讨论订购需求。"
+    },
+    "contact.step1Title": {
+      "id": "Hubungi",
+      "en": "Contact",
+      "zh": "联系"
+    },
+    "contact.step1Text": {
+      "id": "Kirim pesan melalui WhatsApp dan sampaikan produk serta jumlah yang dibutuhkan.",
+      "en": "Send a WhatsApp message with the product and quantity you need.",
+      "zh": "通过 WhatsApp 发送消息，说明所需产品和数量。"
+    },
+    "contact.step2Title": {
+      "id": "Konfirmasi",
+      "en": "Confirmation",
+      "zh": "确认"
+    },
+    "contact.step2Text": {
+      "id": "Jumlah, ketersediaan, dan kebutuhan pesanan dibicarakan bersama.",
+      "en": "Discuss quantity, availability and order requirements together.",
+      "zh": "共同确认数量、供应情况和订单需求。"
+    },
+    "contact.step3Title": {
+      "id": "Pesanan besar",
+      "en": "Large Orders",
+      "zh": "大宗订单"
+    },
+    "contact.step3Text": {
+      "id": "Untuk pesanan besar, diperlukan pembayaran awal 30% dari total pembelian setelah kesepakatan.",
+      "en": "For large orders, a 30% upfront payment of the total purchase is required after agreement.",
+      "zh": "大宗订单达成约定后，需要支付订单总额30%的预付款。"
+    },
+    "contact.step4Title": {
+      "id": "Pengiriman",
+      "en": "Delivery",
+      "zh": "配送"
+    },
+    "contact.step4Text": {
+      "id": "Pengiriman reguler dilakukan menggunakan motor. Detail pengiriman dikonfirmasi melalui WhatsApp.",
+      "en": "Regular delivery is by motorbike. Delivery details are confirmed via WhatsApp.",
+      "zh": "常规配送使用摩托车，配送详情通过 WhatsApp 确认。"
+    },
+    "contact.orderProduct": {
+      "id": "Pesan Asap Kepala Ikan",
+      "en": "Order Smoked Fish Head",
+      "zh": "订购烟熏鱼头"
+    },
+    "contact.sendEmail": {
+      "id": "Kirim Email",
+      "en": "Send Email",
+      "zh": "发送电子邮件"
+    },
+    "contact.referencesLabel": {
+      "id": "REFERENSI & SUMBER",
+      "en": "REFERENCES & SOURCES",
+      "zh": "参考资料与来源"
+    },
+    "contact.referencesTitle": {
+      "id": "Informasi yang kami gunakan.",
+      "en": "Information we use.",
+      "zh": "我们使用的信息。"
+    },
+    "contact.referencesText": {
+      "id": "Panel ini mengumpulkan sumber resmi dan referensi kuliner yang menjadi dasar materi edukasi serta inspirasi resep di website Praba.",
+      "en": "This panel collects official sources and culinary references used for educational content and recipe inspiration on the Praba website.",
+      "zh": "本区域汇集用于 Praba 网站教育内容和食谱灵感的官方资料与烹饪参考。"
+    },
+    "common.languageSelect": {
+      "id": "Pilih bahasa",
+      "en": "Select language",
+      "zh": "选择语言"
+    },
+    "common.menu": {
+      "id": "Buka menu",
+      "en": "Open menu",
+      "zh": "打开菜单"
+    },
+    "footer.languageOptions": {
+      "id": "ID · EN · 中文",
+      "en": "ID · EN · 中文",
+      "zh": "ID · EN · 中文"
+    },
+    "meta.index.title": {
+      "id": "Praba Sea Procesing Food | Praba Fish",
+      "en": "Praba Sea Procesing Food | Praba Fish",
+      "zh": "Praba Sea Procesing Food | Praba Fish"
+    },
+    "meta.produk.title": {
+      "id": "Produk Ikan Asap | Praba Sea Procesing Food",
+      "en": "Smoked Fish Products | Praba Sea Procesing Food",
+      "zh": "烟熏鱼产品 | Praba Sea Procesing Food"
+    },
+    "meta.tentang.title": {
+      "id": "Tentang Praba Fish | Praba Sea Procesing Food",
+      "en": "About Praba Fish | Praba Sea Procesing Food",
+      "zh": "关于 Praba Fish | Praba Sea Procesing Food"
+    },
+    "meta.resep.title": {
+      "id": "15 Resep Ikan Asap | Praba Fish",
+      "en": "15 Smoked Fish Recipes | Praba Fish",
+      "zh": "15道烟熏鱼食谱 | Praba Fish"
+    },
+    "meta.blog.title": {
+      "id": "Blog Praba Fish | Ikan Asap, Mutu & Juwana",
+      "en": "Praba Fish Blog | Smoked Fish, Quality & Juwana",
+      "zh": "Praba Fish 博客 | 烟熏鱼、品质与 Juwana"
+    },
+    "meta.kontak.title": {
+      "id": "Kontak & Pemesanan | Praba Fish",
+      "en": "Contact & Orders | Praba Fish",
+      "zh": "联系与订购 | Praba Fish"
+    },
+    "meta.index.description": {
+      "id": "Praba Sea Procesing Food di Doropayung, Juwana, Pati. Katalog ikan asap, informasi mutu, resep, edukasi, dan pemesanan melalui WhatsApp.",
+      "en": "Praba Sea Procesing Food in Doropayung, Juwana, Pati. Smoked fish products, quality information, recipes, education and WhatsApp ordering.",
+      "zh": "Praba Sea Procesing Food 位于Pati县Juwana区Doropayung，提供烟熏鱼产品、品质信息、食谱、教育内容及 WhatsApp 订购。"
+    },
+    "meta.produk.description": {
+      "id": "Katalog Asap Kepala Ikan Praba Fish berbahan ikan jahan, pilihan ukuran, kemasan, harga, penyimpanan, dan pemesanan melalui WhatsApp.",
+      "en": "Praba Fish Smoked Fish Head catalog made from jahan fish, with sizes, packaging, prices, storage and WhatsApp ordering information.",
+      "zh": "Praba Fish Jahan鱼烟熏鱼头目录，包含规格、包装、价格、储存和 WhatsApp 订购信息。"
+    },
+    "meta.tentang.description": {
+      "id": "Mengenal Praba Sea Procesing Food dari Doropayung, Juwana, Pati: cerita usaha, pengolahan ikan asap, mutu, keamanan pangan, dan edukasi perikanan.",
+      "en": "Learn about Praba Sea Procesing Food in Doropayung, Juwana, Pati: business story, smoked-fish processing, quality, food safety and fisheries education.",
+      "zh": "了解位于Pati县Juwana区Doropayung的 Praba Sea Procesing Food：企业故事、烟熏鱼加工、质量、食品安全和渔业教育。"
+    },
+    "meta.resep.description": {
+      "id": "15 inspirasi resep ikan asap Praba Fish, dari mangut, sambal matah, rica-rica, balado, woku, pepes, nasi goreng, hingga tumis petai.",
+      "en": "15 Praba Fish smoked-fish recipe ideas, from mangut, sambal matah, rica-rica and balado to woku, pepes, fried rice and petai stir-fry.",
+      "zh": "15道 Praba Fish 烟熏鱼食谱灵感，包括 mangut、sambal matah、rica-rica、balado、woku、pepes、炒饭和臭豆炒菜。"
+    },
+    "meta.blog.description": {
+      "id": "Artikel dan edukasi Praba Fish tentang ikan asap, mutu ikan, pengolahan, penyimpanan, keamanan pangan, resep, serta konteks perikanan Juwana-Pati.",
+      "en": "Praba Fish articles and education about smoked fish, fish quality, processing, storage, food safety, recipes and the Juwana-Pati fisheries context.",
+      "zh": "Praba Fish 关于烟熏鱼、鱼类质量、加工、储存、食品安全、食谱以及Juwana-Pati渔业背景的文章与教育内容。"
+    },
+    "meta.kontak.description": {
+      "id": "Hubungi Praba Sea Procesing Food di Doropayung, Juwana, Pati untuk informasi produk, ketersediaan, harga, dan pemesanan ikan asap.",
+      "en": "Contact Praba Sea Procesing Food in Doropayung, Juwana, Pati for product information, availability, prices and smoked-fish orders.",
+      "zh": "联系位于Pati县Juwana区Doropayung的 Praba Sea Procesing Food，了解产品、供应、价格和烟熏鱼订购信息。"
+    },
+    "meta.404.title": {
+      "id": "Halaman Tidak Ditemukan | Praba Fish",
+      "en": "Page Not Found | Praba Fish",
+      "zh": "找不到页面 | Praba Fish"
+    },
+    "meta.404.description": {
+      "id": "Halaman yang Anda cari tidak ditemukan di website Praba Fish.",
+      "en": "The page you are looking for was not found on the Praba Fish website.",
+      "zh": "您查找的页面在 Praba Fish 网站上不存在。"
+    },
+    "products.orderTitle": {
+      "id": "Pesan Produk",
+      "en": "Order Products",
+      "zh": "产品下单"
+    },
+    "products.orderLead": {
+      "id": "Pilih ukuran, jumlah, dan kemasan. Maksimal 10 unit dalam satu pesanan.",
+      "en": "Choose size, quantity, and packaging. Maximum 10 units per order.",
+      "zh": "选择规格、数量和包装。每笔订单最多10份。"
+    },
+    "products.productType": {
+      "id": "Jenis produk",
+      "en": "Product type",
+      "zh": "产品类型"
+    },
+    "products.size": {
+      "id": "Ukuran",
+      "en": "Size",
+      "zh": "Size"
+    },
+    "products.minimum": {
+      "id": "Minimal",
+      "en": "Minimum",
+      "zh": "最低数量"
+    },
+    "products.quantity": {
+      "id": "Jumlah",
+      "en": "Quantity",
+      "zh": "数量"
+    },
+    "products.package": {
+      "id": "Kemasan",
+      "en": "Packaging",
+      "zh": "包装"
+    },
+    "products.economical": {
+      "id": "Ekonomis",
+      "en": "Economical",
+      "zh": "经济装"
+    },
+    "products.regular": {
+      "id": "Reguler",
+      "en": "Regular",
+      "zh": "标准装"
+    },
+    "products.totalUnits": {
+      "id": "Total unit",
+      "en": "Total units",
+      "zh": "总数量"
+    },
+    "products.total": {
+      "id": "Total harga",
+      "en": "Total price",
+      "zh": "总价"
+    },
+    "products.maxNotice": {
+      "id": "Maksimal 10 unit per pesanan.",
+      "en": "Maximum 10 units per order.",
+      "zh": "每笔订单最多10份。"
+    },
+    "products.remaining": {
+      "id": "Sisa kapasitas pesanan",
+      "en": "Order capacity remaining",
+      "zh": "剩余可订数量"
+    },
+    "products.orderWhatsApp": {
+      "id": "Pesan via WhatsApp",
+      "en": "Order via WhatsApp",
+      "zh": "通过 WhatsApp 下单"
+    },
+    "products.summary": {
+      "id": "Ringkasan pesanan",
+      "en": "Order summary",
+      "zh": "订单摘要"
+    },
+    "products.empty": {
+      "id": "Pilih minimal 1 unit untuk melanjutkan.",
+      "en": "Select at least 1 unit to continue.",
+      "zh": "请选择至少1份后继续。"
+    },
+    "products.headUnit": {
+      "id": "kepala",
+      "en": "head",
+      "zh": "鱼头"
+    },
+    "products.unit": {
+      "id": "unit",
+      "en": "unit",
+      "zh": "份"
+    },
+    "products.noteOrder": {
+      "id": "Harga dihitung otomatis berdasarkan jumlah unit dan kemasan yang dipilih.",
+      "en": "The price is calculated automatically from the selected quantity and packaging.",
+      "zh": "价格将根据所选数量和包装自动计算。"
+    },
+    "home.heroEyebrow": {
+      "id": "PRABA FISH • DIDIRIKAN 2026",
+      "en": "PRABA FISH • ESTABLISHED 2026",
+      "zh": "PRABA FISH • 成立于 2026"
+    },
+    "home.heroText": {
+      "id": "Produk ikan asap dari Doropayung, Juwana, Kabupaten Pati, dengan perhatian pada mutu bahan baku dan proses pengolahan.",
+      "en": "Smoked fish products from Doropayung, Juwana, Pati, with attention to raw-material quality and processing.",
+      "zh": "来自Juwana Pati Doropayung的烟熏鱼产品，注重原料品质与加工过程。"
+    },
+    "home.viewProducts": {
+      "id": "Lihat Produk",
+      "en": "View Products",
+      "zh": "查看产品"
+    },
+    "home.orderWhatsApp": {
+      "id": "Pesan via WhatsApp",
+      "en": "Order via WhatsApp",
+      "zh": "通过 WhatsApp 订购"
+    },
+    "common.language": {
+      "id": "Bahasa",
+      "en": "Language",
+      "zh": "语言"
+    },
+    "common.selectLanguage": {
+      "id": "Pilih bahasa",
+      "en": "Select language",
+      "zh": "选择语言"
+    },
+    "about.iso9001.customer": {
+      "id": "Fokus pelanggan",
+      "en": "Customer focus",
+      "zh": "以客户为中心"
+    },
+    "about.iso9001.process": {
+      "id": "Pendekatan proses",
+      "en": "Process approach",
+      "zh": "过程方法"
+    },
+    "about.iso9001.document": {
+      "id": "Pengendalian dokumen",
+      "en": "Document control",
+      "zh": "文件控制"
+    },
+    "about.iso9001.supplier": {
+      "id": "Pengendalian pemasok & produk",
+      "en": "Supplier & product control",
+      "zh": "供应商与产品控制"
+    },
+    "about.iso9001.corrective": {
+      "id": "Tindakan korektif",
+      "en": "Corrective action",
+      "zh": "纠正措施"
+    },
+    "about.iso9001.improvement": {
+      "id": "Peningkatan berkelanjutan",
+      "en": "Continual improvement",
+      "zh": "持续改进"
+    },
+    "about.iso14001.waste": {
+      "id": "Pengelolaan limbah",
+      "en": "Waste management",
+      "zh": "废物管理"
+    },
+    "about.iso14001.resources": {
+      "id": "Air, energi & bahan bakar",
+      "en": "Water, energy & fuel",
+      "zh": "水、能源与燃料"
+    },
+    "about.iso14001.pollution": {
+      "id": "Pencegahan pencemaran",
+      "en": "Pollution prevention",
+      "zh": "污染预防"
+    },
+    "about.iso14001.efficiency": {
+      "id": "Efisiensi sumber daya",
+      "en": "Resource efficiency",
+      "zh": "资源效率"
+    },
+    "about.iso14001.coastal": {
+      "id": "Kepedulian lingkungan pesisir",
+      "en": "Coastal environmental responsibility",
+      "zh": "沿海环境责任"
+    },
+    "about.fifo.monitoring": {
+      "id": "PEMANTAUAN",
+      "en": "MONITORING",
+      "zh": "监控"
+    },
+    "about.fifo.stockCheck": {
+      "id": "pemeriksaan stok",
+      "en": "stock check",
+      "zh": "库存检查"
+    },
+    "about.fifo.dateIn": {
+      "id": "tanggal masuk",
+      "en": "date received",
+      "zh": "入库日期"
+    },
+    "about.fifo.batch": {
+      "id": "batch & kondisi",
+      "en": "batch & condition",
+      "zh": "批次与状态"
+    },
+    "about.fifo.recordLabel": {
+      "id": "CATATAN",
+      "en": "RECORDS",
+      "zh": "记录"
+    },
+    "about.fifo.dateProduction": {
+      "id": "Tanggal produksi",
+      "en": "Production date",
+      "zh": "生产日期"
+    },
+    "about.fifo.batchCode": {
+      "id": "Kode batch",
+      "en": "Batch code",
+      "zh": "批次代码"
+    },
+    "about.fifo.storageCondition": {
+      "id": "Kondisi penyimpanan",
+      "en": "Storage condition",
+      "zh": "储存条件"
+    },
+    "about.fifo.dateOut": {
+      "id": "Tanggal keluar",
+      "en": "Date issued",
+      "zh": "出库日期"
+    },
+    "about.fifo.recordCheck": {
+      "id": "Pemeriksaan stok",
+      "en": "Stock check",
+      "zh": "库存检查"
+    },
+    "about.commit.statusText": {
+      "id": "Walaupun saat ini Praba Sea Procesing Food belum memiliki sertifikasi ISO 9001 maupun ISO 14001, kami berkomitmen untuk secara bertahap membangun dan menyempurnakan sistem manajemen yang selaras dengan prinsip kedua standar tersebut.",
+      "en": "Praba Sea Procesing Food is not currently ISO 9001 or ISO 14001 certified. We are committed to gradually building and improving a management system aligned with the principles of both standards.",
+      "zh": "目前 Praba Sea Procesing Food 尚未获得 ISO 9001 或 ISO 14001 认证。我们承诺逐步建立和完善与这两项标准原则相一致的管理体系。"
+    },
+    "footer.languageLabel": {
+      "id": "Bahasa",
+      "en": "Language",
+      "zh": "语言"
+    },
+    "recipe.heroLabel": {
+      "id": "DAPUR PRABA",
+      "en": "PRABA KITCHEN",
+      "zh": "PRABA 厨房"
+    },
+    "recipe.heroTitle": {
+      "id": "15 resep ikan asap untuk meja keluarga.",
+      "en": "15 smoked fish recipes for the family table.",
+      "zh": "15道烟熏鱼食谱，献给家庭餐桌。"
+    },
+    "recipe.heroText": {
+      "id": "Inspirasi olahan dari berbagai tradisi masak Indonesia. Resep di halaman ini disusun ulang secara orisinal berdasarkan referensi kuliner daring, lalu disesuaikan agar mudah dicoba dengan ikan asap yang tersedia.",
+      "en": "Recipe inspiration from Indonesian cooking traditions. These recipes are independently rewritten from culinary references and adapted for the smoked fish available.",
+      "zh": "灵感来自印度尼西亚各地的烹饪传统。本页食谱参考公开烹饪资料重新编写，并根据可用的烟熏鱼进行调整。"
+    },
+    "recipe.beforeHeading": {
+      "id": "Ikan asap tidak harus selalu digoreng.",
+      "en": "Smoked fish does not always have to be fried.",
+      "zh": "烟熏鱼不一定要油炸。"
+    },
+    "recipe.beforeBody": {
+      "id": "Karakter gurih dan aroma asap dapat dipadukan dengan sambal segar, bumbu rempah, santan, kecap, atau nasi. Karena jenis ikan pada foto produk Praba tidak selalu dapat diidentifikasi hanya dari gambar, resep berikut sengaja ditulis fleksibel menggunakan istilah ikan asap. Jika teksturnya berdaging tebal, potongan utuh cocok untuk kuah; jika berdaging mudah disuwir, cocok untuk rica, balado, nasi goreng, atau tumisan.",
+      "en": "Savory flavor and smoky aroma pair well with fresh sambal, spices, coconut milk, sweet soy sauce or rice. Because the fish type in Praba product visuals cannot always be identified from an image alone, these recipes intentionally use the flexible term smoked fish. Thick-fleshed pieces suit soups, while fish that flakes easily work well for rica, balado, fried rice or stir-fries.",
+      "zh": "烟熏鱼的咸香与烟熏风味可以搭配新鲜辣椒酱、香料、椰奶、甜酱油或米饭。由于仅凭产品图片无法始终准确识别鱼种，本页食谱统一灵活使用“烟熏鱼”这一称谓。肉质较厚的鱼适合做汤，容易撕碎的鱼适合辣味炖炒、巴拉多、炒饭或炒菜。"
+    },
+    "recipe.safetyLabel": {
+      "id": "Catatan keamanan",
+      "en": "Safety note",
+      "zh": "安全提示"
+    },
+    "recipe.safetyText": {
+      "id": "Pengasapan bukan alasan untuk menganggap ikan aman disimpan tanpa batas. Ikuti petunjuk penyimpanan produk, gunakan wadah bersih dan tertutup, dan simpan produk yang perlu didinginkan pada suhu rendah. KKP menekankan pentingnya rantai dingin dan higiene dalam penanganan ikan.",
+      "en": "Smoking does not mean fish can be stored indefinitely. Follow the product storage instructions, use a clean covered container, and keep products that require cooling at a low temperature. Indonesia’s Ministry of Marine Affairs and Fisheries emphasizes cold-chain and hygiene practices in fish handling.",
+      "zh": "烟熏并不意味着鱼可以无限期储存。请遵循产品储存说明，使用清洁且密闭的容器，并将需要冷藏的产品保持在低温环境。印度尼西亚海洋与渔业部强调鱼类处理中的冷链和卫生管理。"
+    },
+    "recipe.filterLabel": {
+      "id": "Filter resep",
+      "en": "Recipe filters",
+      "zh": "食谱筛选"
+    },
+    "recipe.sourceIntro": {
+      "id": "Resep di atas bukan salinan dari satu sumber. Komposisi dan langkahnya diringkas serta ditulis ulang oleh Praba sebagai materi inspirasi. Referensi pola masak yang digunakan antara lain ResepKoki untuk mangut, Tastemade Indonesia/IDN Times untuk sambal matah, IDN Times untuk rica-rica, Cookpad untuk balado dan sambal ijo, Cookpad untuk bumbu kecap, woku, pepes, tumis petai, serta detikFood/Cookpad untuk nasi goreng ikan asap.",
+      "en": "The recipes above are not copied from a single source. Ingredients and methods are summarized and rewritten by Praba as inspiration. References include ResepKoki for mangut, Tastemade Indonesia/IDN Times for sambal matah, IDN Times for rica-rica, Cookpad for balado and sambal ijo, Cookpad for sweet soy, woku, pepes and petai stir-fry, plus detikFood/Cookpad for smoked-fish fried rice.",
+      "zh": "以上食谱并非复制单一来源。配料与做法由 Praba 汇总并重新编写，仅作灵感参考。参考资料包括 ResepKoki 的 mangut、Tastemade Indonesia/IDN Times 的 sambal matah、IDN Times 的 rica-rica、Cookpad 的 balado 与 sambal ijo，以及 Cookpad 的甜酱油、woku、pepes、petai 炒菜和 detikFood/Cookpad 的烟熏鱼炒饭。"
+    },
+    "recipe.sourceNoteTitle": {
+      "id": "REFERENSI RESEP",
+      "en": "RECIPE REFERENCES",
+      "zh": "食谱参考"
+    },
+    "recipe.sourceHeading": {
+      "id": "Dikembangkan dari referensi kuliner.",
+      "en": "Developed from culinary references.",
+      "zh": "参考烹饪资料开发。"
+    },
+    "recipe.referenceHeading": {
+      "id": "Dikembangkan dari referensi kuliner.",
+      "en": "Developed from culinary references.",
+      "zh": "参考烹饪资料开发。"
+    },
+    "contact.address": {
+      "id": "Desa Doropayung, Kecamatan Juwana, Kabupaten Pati, Provinsi Jawa Tengah, Indonesia",
+      "en": "Doropayung Village, Juwana District, Pati Regency, Central Java, Indonesia",
+      "zh": "印度尼西亚中爪哇省巴提县朱瓦纳区多罗帕云村"
+    }
+  },
+  "about.hero.title": {
+    "id": "Dari Juwana, membangun produk ikan asap dengan proses yang terarah",
+    "en": "From Juwana, building smoked-fish products through a focused process",
+    "zh": "扎根Juwana，以清晰流程发展烟熏鱼产品"
+  },
+  "about.hero.text": {
+    "id": "Praba Sea Procesing Food didirikan karena tergerak untuk memanfaatkan sumber daya lokasi yang strategis dalam industri perikanan. Berbasis di Desa Doropayung, Juwana, kami mengembangkan produk ikan asap dengan perhatian pada bahan baku, proses pengolahan, mutu, dan pengelolaan produk.",
+    "en": "Praba Sea Procesing Food was founded to make use of a strategically located fisheries environment. Based in Doropayung Village, Juwana, we develop smoked-fish products with attention to raw materials, processing, quality and product handling.",
+    "zh": "Praba Sea Procesing Food成立的初衷，是利用Juwana渔业产业的区位优势。我们位于Doropayung村，专注于烟熏鱼产品，并关注原料、加工、质量和产品管理。"
+  },
+  "about.identity.title": {
+    "id": "Mengenal Praba Sea Procesing Food",
+    "en": "Getting to Know Praba Sea Procesing Food",
+    "zh": "认识 Praba Sea Procesing Food"
+  },
+  "about.identity.p1": {
+    "id": "Praba Sea Procesing Food adalah usaha pengolahan hasil perikanan yang dibangun di Juwana, Pati, Jawa Tengah, dengan fokus awal pada produk ikan asap.",
+    "en": "Praba Sea Procesing Food is a fisheries-processing business established in Juwana, Pati, Central Java, initially focused on smoked-fish products.",
+    "zh": "Praba Sea Procesing Food是一家位于中爪哇Pati Juwana的渔业加工企业，初期专注于烟熏鱼产品。"
+  },
+  "about.identity.p2": {
+    "id": "Juwana dipilih karena lokasinya strategis bagi kegiatan perikanan. Lingkungan tersebut menjadi konteks penting bagi pengembangan usaha pengolahan ikan dan produk ikan asap.",
+    "en": "Juwana was chosen because of its strategic location for fisheries activities. This environment provides important context for developing fish-processing and smoked-fish products.",
+    "zh": "选择Juwana是因为其在渔业活动中的战略区位。这一环境为鱼类加工和烟熏鱼产品的发展提供了重要背景。"
+  },
+  "about.identity.p3": {
+    "id": "Bagi Praba Sea Procesing Food, mutu dibangun melalui ketersediaan bahan baku berkualitas yang dipadukan dengan proses pengolahan yang optimal untuk menjaga mutu produk.",
+    "en": "For Praba Sea Procesing Food, quality is built through quality raw-material availability combined with an optimized processing approach to maintain product quality.",
+    "zh": "对Praba Sea Procesing Food而言，质量建立在优质原料供应与优化加工过程的结合之上，以保持产品质量。"
+  },
+  "about.story.title": {
+    "id": "Dari gagasan lokal menuju brand yang berintegritas",
+    "en": "From a local idea toward an integrity-driven brand",
+    "zh": "从本地构想走向诚信品牌"
+  },
+  "about.story.lead": {
+    "id": "Praba berangkat dari Juwana, dengan arah pengembangan yang bertahap dan jelas.",
+    "en": "Praba starts from Juwana with a clear, step-by-step direction for development.",
+    "zh": "Praba扎根Juwana，并以清晰、循序渐进的方向发展。"
+  },
+  "about.story.founder.title": {
+    "id": "Andyka Shepty Agil",
+    "en": "Andyka Shepty Agil",
+    "zh": "Andyka Shepty Agil"
+  },
+  "about.story.founder.text": {
+    "id": "Praba Sea Procesing Food didirikan oleh Andyka Shepty Agil pada 2026.",
+    "en": "Praba Sea Procesing Food was founded by Andyka Shepty Agil in 2026.",
+    "zh": "Praba Sea Procesing Food由Andyka Shepty Agil于2026年创立。"
+  },
+  "about.story.name.title": {
+    "id": "Praba = Cahaya",
+    "en": "Praba = Light",
+    "zh": "Praba = 光"
+  },
+  "about.story.name.text": {
+    "id": "Nama Praba dimaknai sebagai cahaya, menjadi bagian dari identitas dan arah pengembangan usaha.",
+    "en": "Praba means “light”, forming part of the business identity and its direction for development.",
+    "zh": "Praba意为“光”，是企业身份和发展方向的一部分。"
+  },
+  "about.story.vision.title": {
+    "id": "Aman, bermutu, dan memperhatikan lingkungan",
+    "en": "Safe, quality-focused, and attentive to the environment",
+    "zh": "重视安全、质量与环境"
+  },
+  "about.story.vision.text": {
+    "id": "Visi Praba adalah mengembangkan produk yang aman dan berkualitas dengan tetap memberi perhatian pada aspek lingkungan.",
+    "en": "Praba’s vision is to develop safe, quality products while continuing to pay attention to environmental aspects.",
+    "zh": "Praba的愿景是在关注环境因素的同时，发展安全且高质量的产品。"
+  },
+  "about.story.future.title": {
+    "id": "Arah 3–5 tahun",
+    "en": "3–5 year direction",
+    "zh": "未来3–5年方向"
+  },
+  "about.story.future.text": {
+    "id": "Praba menargetkan pengembangan menjadi brand yang berintegritas di wilayah Juwana, sambil melanjutkan produk ikan asap dan mengembangkan produk olahan ikan lainnya.",
+    "en": "Praba aims to develop into an integrity-driven brand in Juwana while continuing smoked fish and developing other processed-fish products.",
+    "zh": "Praba计划在Juwana发展成为诚信品牌，同时继续烟熏鱼业务并开发其他鱼类加工产品。"
+  },
+  "about.story.process.title": {
+    "id": "Gambaran proses pengolahan ikan asap",
+    "en": "Overview of the smoked-fish processing process",
+    "zh": "烟熏鱼加工流程概览"
+  },
+  "about.story.process.lead": {
+    "id": "Rangkaian berikut adalah proses yang disampaikan oleh pemilik usaha.",
+    "en": "The following sequence reflects the process described by the business owner.",
+    "zh": "以下流程根据企业所有者提供的信息整理。"
+  },
+  "about.story.process.raw.title": {
+    "id": "Bahan baku",
+    "en": "Raw materials",
+    "zh": "原料"
+  },
+  "about.story.process.raw.text": {
+    "id": "Bahan baku berasal dari gabungan berbagai sumber. Ikan jahan dalam kondisi segar digunakan untuk produk Asap Kepala Ikan.",
+    "en": "Raw materials come from combined sources. Fresh jahan fish is used for the Smoked Fish Head product.",
+    "zh": "原料来自多个来源。鱼头烟熏产品使用新鲜的jahan鱼。"
+  },
+  "about.story.process.clean.title": {
+    "id": "Pemotongan & pembersihan",
+    "en": "Cutting & cleaning",
+    "zh": "切割与清洁"
+  },
+  "about.story.process.clean.text": {
+    "id": "Ikan dipotong sesuai ukuran yang diperlukan, kemudian dibersihkan menggunakan air mengalir.",
+    "en": "Fish is cut to the required size and then cleaned with running water.",
+    "zh": "鱼按所需尺寸切割，然后用流动水清洗。"
+  },
+  "about.story.process.smoke.title": {
+    "id": "Pengasapan",
+    "en": "Smoking",
+    "zh": "烟熏"
+  },
+  "about.story.process.smoke.text": {
+    "id": "Pengasapan dilakukan di atas sumber panas menggunakan tungku berbahan bakar tongkol jagung, sekitar 5 menit dan diulang 3 kali.",
+    "en": "Smoking is carried out above a heat source using a corn-cob-fueled stove, for about 5 minutes and repeated 3 times.",
+    "zh": "使用以玉米芯为燃料的炉灶在热源上方进行烟熏，每次约5分钟，重复3次。"
+  },
+  "about.story.process.cool.title": {
+    "id": "Pendinginan & penjualan",
+    "en": "Cooling & sales",
+    "zh": "冷却与销售"
+  },
+  "about.story.process.cool.text": {
+    "id": "Setelah pengasapan, produk dibiarkan pada suhu ruang terlebih dahulu, kemudian dikemas atau disimpan dalam pendinginan es sebelum dijual.",
+    "en": "After smoking, the product is first left at room temperature, then packaged or stored under ice cooling before sale.",
+    "zh": "烟熏后，产品先在室温下放置，然后包装或在冰冷却条件下储存后销售。"
+  },
+  "about.data.eyebrow": {
+    "id": "05 • DATA REFERENSI",
+    "en": "05 • REFERENCE DATA",
+    "zh": "05 • 参考数据"
+  },
+  "about.eyebrow.juwana": {
+    "id": "PRABA / JUWANA",
+    "en": "PRABA / JUWANA",
+    "zh": "PRABA / JUWANA"
+  },
+  "about.eyebrow.field": {
+    "id": "PRABA / FIELD GUIDE",
+    "en": "PRABA / FIELD GUIDE",
+    "zh": "PRABA / 现场指南"
+  },
+  "about.eyebrow.principle": {
+    "id": "PRABA / PRINCIPLE",
+    "en": "PRABA / PRINCIPLE",
+    "zh": "PRABA / 原则"
+  },
+  "about.eyebrow.story": {
+    "id": "02 • CERITA PRABA",
+    "en": "02 • PRABA STORY",
+    "zh": "02 • PRABA故事"
+  },
+  "about.eyebrow.founder": {
+    "id": "01 • PENDIRI",
+    "en": "01 • FOUNDER",
+    "zh": "01 • 创始人"
+  },
+  "about.eyebrow.name": {
+    "id": "02 • MAKNA NAMA",
+    "en": "02 • NAME MEANING",
+    "zh": "02 • 名称含义"
+  },
+  "about.eyebrow.direction": {
+    "id": "03 • ARAH",
+    "en": "03 • DIRECTION",
+    "zh": "03 • 发展方向"
+  },
+  "about.eyebrow.process": {
+    "id": "03 • PROSES PRABA",
+    "en": "03 • PRABA PROCESS",
+    "zh": "03 • PRABA流程"
+  },
+  "about.eyebrow.juwanaSection": {
+    "id": "04 • JUWANA & PATI",
+    "en": "04 • JUWANA & PATI",
+    "zh": "04 • JUWANA与PATI"
+  },
+  "about.juwana.badge": {
+    "id": "JUWANA • PATI",
+    "en": "JUWANA • PATI",
+    "zh": "JUWANA • PATI"
+  },
+  "about.juwana.ecosystem": {
+    "id": "Ekosistem perikanan",
+    "en": "Fisheries ecosystem",
+    "zh": "渔业生态系统"
+  },
+  "about.eyebrow.qualitySystem": {
+    "id": "04 • SISTEM MUTU",
+    "en": "04 • QUALITY SYSTEM",
+    "zh": "04 • 质量体系"
+  },
+  "about.flow.raw": {
+    "id": "BAHAN BAKU",
+    "en": "RAW MATERIALS",
+    "zh": "原料"
+  },
+  "about.flow.process": {
+    "id": "PROSES",
+    "en": "PROCESS",
+    "zh": "加工"
+  },
+  "about.flow.safety": {
+    "id": "KEAMANAN",
+    "en": "SAFETY",
+    "zh": "安全"
+  },
+  "about.flow.storage": {
+    "id": "PENYIMPANAN",
+    "en": "STORAGE",
+    "zh": "储存"
+  },
+  "about.flow.distribution": {
+    "id": "DISTRIBUSI",
+    "en": "DISTRIBUTION",
+    "zh": "配送"
+  },
+  "about.flow.consumer": {
+    "id": "KONSUMEN",
+    "en": "CONSUMER",
+    "zh": "消费者"
+  },
+  "about.eyebrow.raw": {
+    "id": "05 • BAHAN BAKU",
+    "en": "05 • RAW MATERIALS",
+    "zh": "05 • 原料"
+  },
+  "about.raw.fast": {
+    "id": "CEPAT",
+    "en": "FAST",
+    "zh": "快速"
+  },
+  "about.raw.fastText": {
+    "id": "kurangi waktu penanganan",
+    "en": "reduce handling time",
+    "zh": "缩短处理时间"
+  },
+  "about.raw.clean": {
+    "id": "BERSIH",
+    "en": "CLEAN",
+    "zh": "清洁"
+  },
+  "about.raw.cleanText": {
+    "id": "jaga higiene",
+    "en": "maintain hygiene",
+    "zh": "保持卫生"
+  },
+  "about.raw.cold": {
+    "id": "DINGIN",
+    "en": "COLD",
+    "zh": "低温"
+  },
+  "about.raw.coldText": {
+    "id": "kendalikan suhu",
+    "en": "control temperature",
+    "zh": "控制温度"
+  },
+  "about.eyebrow.processing": {
+    "id": "06 • PEMROSESAN",
+    "en": "06 • PROCESSING",
+    "zh": "06 • 加工"
+  },
+  "about.process.receive": {
+    "id": "PENERIMAAN",
+    "en": "RECEIVING",
+    "zh": "接收"
+  },
+  "about.process.inspect": {
+    "id": "PEMERIKSAAN",
+    "en": "INSPECTION",
+    "zh": "检查"
+  },
+  "about.process.prepare": {
+    "id": "PERSIAPAN",
+    "en": "PREPARATION",
+    "zh": "准备"
+  },
+  "about.process.smoking": {
+    "id": "PENGASAPAN",
+    "en": "SMOKING",
+    "zh": "烟熏"
+  },
+  "about.cold.cooling": {
+    "id": "PENDINGINAN",
+    "en": "COOLING",
+    "zh": "冷却"
+  },
+  "about.eyebrow.standards": {
+    "id": "07–08 • STANDAR REFERENSI",
+    "en": "07–08 • REFERENCE STANDARDS",
+    "zh": "07–08 • 参考标准"
+  },
+  "about.eyebrow.iso9001": {
+    "id": "07 • MANAJEMEN MUTU",
+    "en": "07 • QUALITY MANAGEMENT",
+    "zh": "07 • 质量管理"
+  },
+  "about.eyebrow.iso14001": {
+    "id": "08 • LINGKUNGAN",
+    "en": "08 • ENVIRONMENT",
+    "zh": "08 • 环境"
+  },
+  "about.eyebrow.quality": {
+    "id": "09 • MUTU IKAN",
+    "en": "09 • FISH QUALITY",
+    "zh": "09 • 鱼类品质"
+  },
+  "about.eyebrow.education": {
+    "id": "10 • ILUSTRASI EDUKASI",
+    "en": "10 • EDUCATIONAL ILLUSTRATION",
+    "zh": "10 • 教育性插图"
+  },
+  "about.eyebrow.foodSafety": {
+    "id": "11 • KEAMANAN PANGAN",
+    "en": "11 • FOOD SAFETY",
+    "zh": "11 • 食品安全"
+  },
+  "about.control.points": {
+    "id": "CONTROL POINTS",
+    "en": "CONTROL POINTS",
+    "zh": "控制要点"
+  },
+  "about.control.temp": {
+    "id": "suhu",
+    "en": "temperature",
+    "zh": "温度"
+  },
+  "about.control.time": {
+    "id": "waktu",
+    "en": "time",
+    "zh": "时间"
+  },
+  "about.control.clean": {
+    "id": "kebersihan",
+    "en": "cleanliness",
+    "zh": "清洁"
+  },
+  "about.control.sanitation": {
+    "id": "sanitasi",
+    "en": "sanitation",
+    "zh": "卫生管理"
+  },
+  "about.control.cross": {
+    "id": "kontaminasi silang",
+    "en": "cross-contamination",
+    "zh": "交叉污染"
+  },
+  "about.control.storage": {
+    "id": "penyimpanan",
+    "en": "storage",
+    "zh": "储存"
+  },
+  "about.control.process": {
+    "id": "proses",
+    "en": "processing",
+    "zh": "加工"
+  },
+  "about.eyebrow.coldChain": {
+    "id": "12 • RANTAI DINGIN",
+    "en": "12 • COLD CHAIN",
+    "zh": "12 • 冷链"
+  },
+  "about.cold.nodeFish": {
+    "id": "IKAN",
+    "en": "FISH",
+    "zh": "鱼"
+  },
+  "about.cold.receive": {
+    "id": "penerimaan",
+    "en": "receiving",
+    "zh": "接收"
+  },
+  "about.cold.controlTemp": {
+    "id": "kendali suhu",
+    "en": "temperature control",
+    "zh": "温度控制"
+  },
+  "about.cold.storage": {
+    "id": "STORAGE",
+    "en": "STORAGE",
+    "zh": "储存"
+  },
+  "about.cold.monitoring": {
+    "id": "monitoring",
+    "en": "monitoring",
+    "zh": "监控"
+  },
+  "about.cold.transport": {
+    "id": "TRANSPORT",
+    "en": "TRANSPORT",
+    "zh": "运输"
+  },
+  "about.cold.distributionTime": {
+    "id": "waktu distribusi",
+    "en": "distribution time",
+    "zh": "配送时间"
+  },
+  "about.cold.productKept": {
+    "id": "produk terjaga",
+    "en": "product maintained",
+    "zh": "保持产品状态"
+  },
+  "about.eyebrow.fifo": {
+    "id": "13 • FIFO & FEFO",
+    "en": "13 • FIFO & FEFO",
+    "zh": "13 • FIFO与FEFO"
+  },
+  "about.fifo.firstIn": {
+    "id": "FIRST IN",
+    "en": "FIRST IN",
+    "zh": "先入"
+  },
+  "about.fifo.dateIn": {
+    "id": "tanggal masuk",
+    "en": "entry date",
+    "zh": "入库日期"
+  },
+  "about.fifo.batch": {
+    "id": "batch & kondisi",
+    "en": "batch & condition",
+    "zh": "批次与状态"
+  },
+  "about.fifo.stockCheck": {
+    "id": "stock check",
+    "en": "stock check",
+    "zh": "库存检查"
+  },
+  "about.fifo.firstOut": {
+    "id": "FIRST OUT",
+    "en": "FIRST OUT",
+    "zh": "先出"
+  },
+  "about.fifo.priority": {
+    "id": "prioritas keluar",
+    "en": "outbound priority",
+    "zh": "优先出库"
+  },
+  "about.fifo.recordLabel": {
+    "id": "RECORD",
+    "en": "RECORD",
+    "zh": "记录"
+  },
+  "about.fifo.fefoLabel": {
+    "id": "FEFO",
+    "en": "FEFO",
+    "zh": "FEFO"
+  },
+  "about.eyebrow.commit": {
+    "id": "14 • KOMITMEN PRABA",
+    "en": "14 • PRABA COMMITMENT",
+    "zh": "14 • PRABA承诺"
+  },
+  "about.eyebrow.references": {
+    "id": "15 • REFERENSI",
+    "en": "15 • REFERENCES",
+    "zh": "15 • 参考资料"
+  },
+  "about.footer.locationShort": {
+    "id": "Pati, Jawa Tengah",
+    "en": "Pati, Central Java",
+    "zh": "中爪哇省Pati"
+  },
+  "about.compare.eye.good": {
+    "id": "Mata relatif jernih dan cerah.",
+    "en": "Eyes are relatively clear and bright.",
+    "zh": "眼睛较为清澈明亮。"
+  },
+  "about.compare.eye.decline": {
+    "id": "Mata dapat tampak kurang jernih atau kusam.",
+    "en": "Eyes may appear less clear or dull.",
+    "zh": "眼睛可能显得不够清澈或暗淡。"
+  },
+  "about.compare.gill.good": {
+    "id": "Amati warna dan kebersihan secara keseluruhan.",
+    "en": "Observe overall color and cleanliness.",
+    "zh": "观察整体颜色和清洁状况。"
+  },
+  "about.compare.gill.decline": {
+    "id": "Perubahan warna, lendir atau bau menyimpang perlu diperhatikan.",
+    "en": "Changes in color, mucus or unusual odor should be noted.",
+    "zh": "应注意颜色变化、黏液或异常气味。"
+  },
+  "about.compare.flesh.good": {
+    "id": "Tekstur relatif elastis dan tidak mudah hancur.",
+    "en": "Texture is relatively elastic and does not break apart easily.",
+    "zh": "质地较有弹性，不易碎裂。"
+  },
+  "about.compare.flesh.decline": {
+    "id": "Tekstur dapat melunak atau berubah warna.",
+    "en": "Texture may soften or change color.",
+    "zh": "质地可能变软或发生颜色变化。"
+  },
+  "about.compare.surface.good": {
+    "id": "Permukaan diperiksa untuk kebersihan dan kerusakan fisik.",
+    "en": "The surface is checked for cleanliness and physical damage.",
+    "zh": "检查表面清洁度及物理损伤。"
+  },
+  "about.compare.surface.decline": {
+    "id": "Lendir berlebih, perubahan warna, kerusakan atau tanda pembusukan perlu diperhatikan.",
+    "en": "Excess mucus, color changes, damage or signs of spoilage should be noted.",
+    "zh": "应注意过多黏液、颜色变化、损伤或腐败迹象。"
+  },
+  "id": {
+    "products.stock": "Stok",
+    "products.outOfStock": "Stok habis"
+  },
+  "en": {
+    "products.stock": "Stock",
+    "products.outOfStock": "Out of stock"
+  },
+  "zh": {
+    "products.stock": "库存",
+    "products.outOfStock": "缺货"
+  }
+}

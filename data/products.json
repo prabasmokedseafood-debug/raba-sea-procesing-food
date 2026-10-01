@@ -1,0 +1,346 @@
+{
+  "products": [
+    {
+      "id": "PRD-001",
+      "type": "product",
+      "status": "published",
+      "name": {
+        "id": "Asap Kepala Ikan — Kecil",
+        "en": "Smoked Fish Head — Small",
+        "zh": "烟熏鱼头 — 小型"
+      },
+      "description": {
+        "id": "Ikan jahan segar berbentuk potongan kepala, ukuran kecil. Diolah dengan proses pengasapan menggunakan tungku berbahan bakar bonggol jagung.",
+        "en": "Fresh jahan fish head pieces, small size. Processed by smoking in a stove fueled with corn cobs.",
+        "zh": "新鲜鲥鱼头切块，小型规格。使用以玉米芯为燃料的炉具进行烟熏加工。"
+      },
+      "category": "smoked-fish-head",
+      "categoryLabel": {
+        "id": "ASAP KEPALA IKAN",
+        "en": "SMOKED FISH HEAD",
+        "zh": "烟熏鱼头"
+      },
+      "fishType": {
+        "id": "Jahan",
+        "en": "Jahan",
+        "zh": "Jahan"
+      },
+      "rawMaterial": {
+        "id": "Segar",
+        "en": "Fresh",
+        "zh": "新鲜"
+      },
+      "form": {
+        "id": "Potongan kepala",
+        "en": "Head pieces",
+        "zh": "鱼头切块"
+      },
+      "size": {
+        "id": "Kecil",
+        "en": "Small",
+        "zh": "小型"
+      },
+      "packaging": [
+        {
+          "name": {
+            "id": "Ekonomis",
+            "en": "Economical",
+            "zh": "经济装"
+          },
+          "material": {
+            "id": "Kertas bekas",
+            "en": "Reused paper",
+            "zh": "再利用纸张"
+          },
+          "price": 20000
+        },
+        {
+          "name": {
+            "id": "Reguler",
+            "en": "Regular",
+            "zh": "标准装"
+          },
+          "material": {
+            "id": "Plastik berperekat",
+            "en": "Adhesive plastic packaging",
+            "zh": "自粘塑料包装"
+          },
+          "price": 20500
+        }
+      ],
+      "minimumPurchase": {
+        "id": "3 kepala",
+        "en": "3 heads",
+        "zh": "3个鱼头"
+      },
+      "availability": true,
+      "storage": {
+        "id": "Lebih baik disimpan dalam pendingin/refrigerasi.",
+        "en": "Better kept chilled/refrigerated.",
+        "zh": "建议冷藏保存。"
+      },
+      "shelfLife": {
+        "withoutCooling": {
+          "id": "Hingga 2 hari",
+          "en": "Up to 2 days",
+          "zh": "最长2天"
+        },
+        "withCooling": {
+          "id": "Hingga 7 hari",
+          "en": "Up to 7 days",
+          "zh": "冷藏最长7天"
+        },
+        "basis": {
+          "id": "Berdasarkan hasil pengujian dan pengalaman.",
+          "en": "Based on testing results and experience.",
+          "zh": "根据测试结果和经验。"
+        }
+      },
+      "additives": {
+        "id": "Tidak menggunakan bahan tambahan/pengawet.",
+        "en": "No additives/preservatives are used.",
+        "zh": "不使用添加剂/防腐剂。"
+      },
+      "serving": {
+        "id": "",
+        "en": "",
+        "zh": ""
+      },
+      "imageIds": [
+        "SRC-IMG-001"
+      ],
+      "image": "images/produk-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-PRB-001"
+      ]
+    },
+    {
+      "id": "PRD-002",
+      "type": "product",
+      "status": "published",
+      "name": {
+        "id": "Asap Kepala Ikan — Sedang",
+        "en": "Smoked Fish Head — Medium",
+        "zh": "烟熏鱼头 — 中型"
+      },
+      "description": {
+        "id": "Ikan jahan segar berbentuk potongan kepala, ukuran sedang. Diolah dengan proses pengasapan menggunakan tungku berbahan bakar bonggol jagung.",
+        "en": "Fresh jahan fish head pieces, medium size. Processed by smoking in a stove fueled with corn cobs.",
+        "zh": "新鲜鲥鱼头切块，中型规格。使用以玉米芯为燃料的炉具进行烟熏加工。"
+      },
+      "category": "smoked-fish-head",
+      "categoryLabel": {
+        "id": "ASAP KEPALA IKAN",
+        "en": "SMOKED FISH HEAD",
+        "zh": "烟熏鱼头"
+      },
+      "fishType": {
+        "id": "Jahan",
+        "en": "Jahan",
+        "zh": "Jahan"
+      },
+      "rawMaterial": {
+        "id": "Segar",
+        "en": "Fresh",
+        "zh": "新鲜"
+      },
+      "form": {
+        "id": "Potongan kepala",
+        "en": "Head pieces",
+        "zh": "鱼头切块"
+      },
+      "size": {
+        "id": "Sedang",
+        "en": "Medium",
+        "zh": "中型"
+      },
+      "packaging": [
+        {
+          "name": {
+            "id": "Ekonomis",
+            "en": "Economical",
+            "zh": "经济装"
+          },
+          "material": {
+            "id": "Kertas bekas",
+            "en": "Reused paper",
+            "zh": "再利用纸张"
+          },
+          "price": 20000
+        },
+        {
+          "name": {
+            "id": "Reguler",
+            "en": "Regular",
+            "zh": "标准装"
+          },
+          "material": {
+            "id": "Plastik berperekat",
+            "en": "Adhesive plastic packaging",
+            "zh": "自粘塑料包装"
+          },
+          "price": 20500
+        }
+      ],
+      "minimumPurchase": {
+        "id": "2 kepala",
+        "en": "2 heads",
+        "zh": "2个鱼头"
+      },
+      "availability": true,
+      "storage": {
+        "id": "Lebih baik disimpan dalam pendingin/refrigerasi.",
+        "en": "Better kept chilled/refrigerated.",
+        "zh": "建议冷藏保存。"
+      },
+      "shelfLife": {
+        "withoutCooling": {
+          "id": "Hingga 2 hari",
+          "en": "Up to 2 days",
+          "zh": "最长2天"
+        },
+        "withCooling": {
+          "id": "Hingga 7 hari",
+          "en": "Up to 7 days",
+          "zh": "冷藏最长7天"
+        },
+        "basis": {
+          "id": "Berdasarkan hasil pengujian dan pengalaman.",
+          "en": "Based on testing results and experience.",
+          "zh": "根据测试结果和经验。"
+        }
+      },
+      "additives": {
+        "id": "Tidak menggunakan bahan tambahan/pengawet.",
+        "en": "No additives/preservatives are used.",
+        "zh": "不使用添加剂/防腐剂。"
+      },
+      "serving": {
+        "id": "",
+        "en": "",
+        "zh": ""
+      },
+      "imageIds": [
+        "SRC-IMG-001"
+      ],
+      "image": "images/produk-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-PRB-001"
+      ]
+    },
+    {
+      "id": "PRD-003",
+      "type": "product",
+      "status": "published",
+      "name": {
+        "id": "Asap Kepala Ikan — Besar",
+        "en": "Smoked Fish Head — Large",
+        "zh": "烟熏鱼头 — 大型"
+      },
+      "description": {
+        "id": "Ikan jahan segar berbentuk potongan kepala, ukuran besar. Diolah dengan proses pengasapan menggunakan tungku berbahan bakar bonggol jagung.",
+        "en": "Fresh jahan fish head pieces, large size. Processed by smoking in a stove fueled with corn cobs.",
+        "zh": "新鲜鲥鱼头切块，大型规格。使用以玉米芯为燃料的炉具进行烟熏加工。"
+      },
+      "category": "smoked-fish-head",
+      "categoryLabel": {
+        "id": "ASAP KEPALA IKAN",
+        "en": "SMOKED FISH HEAD",
+        "zh": "烟熏鱼头"
+      },
+      "fishType": {
+        "id": "Jahan",
+        "en": "Jahan",
+        "zh": "Jahan"
+      },
+      "rawMaterial": {
+        "id": "Segar",
+        "en": "Fresh",
+        "zh": "新鲜"
+      },
+      "form": {
+        "id": "Potongan kepala",
+        "en": "Head pieces",
+        "zh": "鱼头切块"
+      },
+      "size": {
+        "id": "Besar",
+        "en": "Large",
+        "zh": "大型"
+      },
+      "packaging": [
+        {
+          "name": {
+            "id": "Ekonomis",
+            "en": "Economical",
+            "zh": "经济装"
+          },
+          "material": {
+            "id": "Kertas bekas",
+            "en": "Reused paper",
+            "zh": "再利用纸张"
+          },
+          "price": 20000
+        },
+        {
+          "name": {
+            "id": "Reguler",
+            "en": "Regular",
+            "zh": "标准装"
+          },
+          "material": {
+            "id": "Plastik berperekat",
+            "en": "Adhesive plastic packaging",
+            "zh": "自粘塑料包装"
+          },
+          "price": 20500
+        }
+      ],
+      "minimumPurchase": {
+        "id": "1 kepala",
+        "en": "1 head",
+        "zh": "1个鱼头"
+      },
+      "availability": true,
+      "storage": {
+        "id": "Lebih baik disimpan dalam pendingin/refrigerasi.",
+        "en": "Better kept chilled/refrigerated.",
+        "zh": "建议冷藏保存。"
+      },
+      "shelfLife": {
+        "withoutCooling": {
+          "id": "Hingga 2 hari",
+          "en": "Up to 2 days",
+          "zh": "最长2天"
+        },
+        "withCooling": {
+          "id": "Hingga 7 hari",
+          "en": "Up to 7 days",
+          "zh": "冷藏最长7天"
+        },
+        "basis": {
+          "id": "Berdasarkan hasil pengujian dan pengalaman.",
+          "en": "Based on testing results and experience.",
+          "zh": "根据测试结果和经验。"
+        }
+      },
+      "additives": {
+        "id": "Tidak menggunakan bahan tambahan/pengawet.",
+        "en": "No additives/preservatives are used.",
+        "zh": "不使用添加剂/防腐剂。"
+      },
+      "serving": {
+        "id": "",
+        "en": "",
+        "zh": ""
+      },
+      "imageIds": [
+        "SRC-IMG-001"
+      ],
+      "image": "images/produk-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-PRB-001"
+      ]
+    }
+  ]
+}
