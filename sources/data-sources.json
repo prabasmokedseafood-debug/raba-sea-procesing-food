@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "DATA-001",
+      "title": "Sentra industri perikanan Juwana/Pati",
+      "organization": "Pemerintah Provinsi Jawa Tengah",
+      "url": "https://cjip.jatengprov.go.id/detail-proyek-investasi/proyek-sentra-industri-perikanan",
+      "publicationDate": "",
+      "accessed": "2026-09-29",
+      "dataPeriod": null,
+      "unit": "percent",
+      "value": 96.81,
+      "location": "TPI Bajomulyo",
+      "status": "verified",
+      "notes": "Data regional; bukan kapasitas Praba.",
+      "sourceId": "SRC-JWN-001",
+      "usedIn": [
+        "SRC-JWN-001"
+      ]
+    },
+    {
+      "id": "DATA-002",
+      "title": "Contoh aktivitas pendaratan ikan Juwana",
+      "organization": "Sumber pemerintah/instansi terkait",
+      "url": "",
+      "publicationDate": "2018-08-16",
+      "accessed": "",
+      "dataPeriod": "",
+      "unit": "ton",
+      "value": 546,
+      "location": "Juwana",
+      "status": "pending",
+      "notes": "Verifikasi URL sebelum publikasi final.",
+      "sourceId": "SRC-JWN-002",
+      "usedIn": [
+        "SRC-JWN-002"
+      ]
+    },
+    {
+      "id": "DATA-003",
+      "title": "Contoh aktivitas pendaratan ikan Juwana",
+      "organization": "Sumber pemerintah/instansi terkait",
+      "url": "",
+      "publicationDate": "2018-09-10",
+      "accessed": "",
+      "dataPeriod": "",
+      "unit": "ton",
+      "value": 560.6,
+      "location": "Juwana",
+      "status": "pending",
+      "notes": "Verifikasi URL sebelum publikasi final.",
+      "sourceId": "SRC-JWN-002",
+      "usedIn": [
+        "SRC-JWN-002"
+      ]
+    },
+    {
+      "id": "DATA-004",
+      "title": "Contoh aktivitas pendaratan ikan Juwana 30 Januari 2025",
+      "organization": "Sumber pemerintah/instansi terkait",
+      "url": "",
+      "publicationDate": "2025-01-30",
+      "accessed": "",
+      "dataPeriod": "",
+      "unit": "ton",
+      "value": 165.9,
+      "location": "Juwana",
+      "status": "pending",
+      "notes": "Verifikasi URL sebelum publikasi final.",
+      "sourceId": "SRC-JWN-003",
+      "usedIn": [
+        "SRC-JWN-003"
+      ]
+    }
+  ]
+}

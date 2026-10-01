@@ -1,0 +1,1 @@
+.language-switcher{display:flex;align-items:center;margin-left:4px}.language-switcher select{font:inherit;cursor:pointer;outline:none}.language-switcher option{color:#123;background:#fff}@media(max-width:900px){.language-switcher{margin:8px 0}.language-switcher select{width:100%}}

@@ -1,0 +1,314 @@
+{
+  "images": [
+    {
+      "id": "SRC-IMG-001",
+      "file": "images/produk-ikan-asap.jpg",
+      "title": "Ilustrasi produk ikan asap untuk katalog",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "produk.html",
+        "PRD-001",
+        "PRD-002",
+        "PRD-003"
+      ],
+      "notes": "Ilustrasi AI yang dipilih untuk visual katalog; bukan foto aktual produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-002",
+      "file": "images/proses-pengasapan.jpg",
+      "title": "Ilustrasi proses pengasapan",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-003",
+      "file": "images/mangut-ikan-asap.jpg",
+      "title": "Mangut Ikan Asap",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-004",
+      "file": "images/ikan-asap-sambal-matah.jpg",
+      "title": "Ikan Asap Sambal Matah",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-005",
+      "file": "images/ikan-asap-rica-rica.jpg",
+      "title": "Ikan Asap Rica-Rica",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-006",
+      "file": "images/ikan-asap-balado.jpg",
+      "title": "Ikan Asap Balado",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-007",
+      "file": "images/ikan-asap-sambal-ijo.jpg",
+      "title": "Ikan Asap Sambal Ijo",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-008",
+      "file": "images/ikan-asap-bumbu-kecap.jpg",
+      "title": "Ikan Asap Bumbu Kecap",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-009",
+      "file": "images/ikan-asap-woku-kemangi.jpg",
+      "title": "Ikan Asap Woku Kemangi",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-010",
+      "file": "images/pepes-ikan-asap.jpg",
+      "title": "Pepes Ikan Asap",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-011",
+      "file": "images/nasi-goreng-ikan-asap.jpg",
+      "title": "Nasi Goreng Ikan Asap",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-012",
+      "file": "images/tumis-ikan-asap-petai.jpg",
+      "title": "Tumis Ikan Asap Petai",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "resep.html"
+      ],
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-JWN-001",
+      "file": "images/juwana/tpi-bajomulyo-01.jpg",
+      "title": "Aktivitas TPI Bajomulyo",
+      "sourceType": "internet",
+      "sourceOrganization": "",
+      "sourceUrl": "",
+      "accessed": "",
+      "license": "",
+      "creditRequired": true,
+      "creditText": "",
+      "status": "pending",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "notes": "Cari foto yang dapat digunakan secara legal; jangan membuat URL sumber palsu."
+    },
+    {
+      "id": "SRC-IMG-JWN-002",
+      "file": "images/juwana/ppp-bajomulyo-01.jpg",
+      "title": "PPP Bajomulyo",
+      "sourceType": "internet",
+      "sourceOrganization": "",
+      "sourceUrl": "",
+      "accessed": "",
+      "license": "",
+      "creditRequired": true,
+      "creditText": "",
+      "status": "pending",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "notes": "Cari foto yang dapat digunakan secara legal; jangan membuat URL sumber palsu."
+    },
+    {
+      "id": "SRC-IMG-JWN-003",
+      "file": "images/juwana/kapal-perikanan-01.jpg",
+      "title": "Kapal perikanan Juwana",
+      "sourceType": "internet",
+      "sourceOrganization": "",
+      "sourceUrl": "",
+      "accessed": "",
+      "license": "",
+      "creditRequired": true,
+      "creditText": "",
+      "status": "pending",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "notes": "Cari foto yang dapat digunakan secara legal; jangan membuat URL sumber palsu."
+    },
+    {
+      "id": "SRC-IMG-JWN-004",
+      "file": "images/juwana/bongkar-ikan-01.jpg",
+      "title": "Aktivitas bongkar ikan",
+      "sourceType": "internet",
+      "sourceOrganization": "",
+      "sourceUrl": "",
+      "accessed": "",
+      "license": "",
+      "creditRequired": true,
+      "creditText": "",
+      "status": "pending",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "notes": "Cari foto yang dapat digunakan secara legal; jangan membuat URL sumber palsu."
+    },
+    {
+      "id": "SRC-IMG-REF-001",
+      "file": "images/banner-referensi.webp",
+      "title": "Visual konteks referensi",
+      "sourceType": "ai-generated",
+      "sourceOrganization": "AI generated",
+      "sourceUrl": "",
+      "accessed": "2026-09-29",
+      "license": "AI-generated",
+      "creditRequired": false,
+      "creditText": "Ilustrasi AI",
+      "status": "ai-generated",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "notes": "Bukan dokumentasi aktual fasilitas Praba."
+    },
+    {
+      "id": "SRC-IMG-WEB-001",
+      "file": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Smoking_fish.jpg",
+      "title": "Foto referensi proses pengasapan ikan",
+      "sourceType": "internet",
+      "sourceOrganization": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Smoking_fish.jpg",
+      "accessed": "2026-09-29",
+      "license": "CC BY-SA 3.0 / GFDL",
+      "creditRequired": true,
+      "creditText": "Ikiwaner / Wikimedia Commons",
+      "status": "verified",
+      "usedIn": [
+        "tentang.html",
+        "blog.html"
+      ],
+      "notes": "Referensi visual, bukan foto aktual fasilitas atau produk Praba."
+    }
+  ]
+}

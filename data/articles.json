@@ -1,0 +1,226 @@
+{
+  "articles": [
+    {
+      "id": "ART-001",
+      "type": "article",
+      "status": "published",
+      "title": {
+        "id": "Mengenal Pengasapan Ikan: Aroma, Warna, dan Rasa",
+        "en": "Understanding Fish Smoking: Aroma, Color and Flavor",
+        "zh": "了解鱼类烟熏：香气、色泽与风味"
+      },
+      "category": "pengasapan",
+      "categoryLabel": {
+        "id": "PENGASAPAN",
+        "en": "Pengasapan",
+        "zh": "烟熏加工"
+      },
+      "imageIds": [
+        "SRC-IMG-002"
+      ],
+      "image": "images/proses-pengasapan.jpg",
+      "paragraphs": {
+        "id": [
+          "Menurut Kementerian Kelautan dan Perikanan, pengasapan/pemanggangan merupakan salah satu cara pengolahan dan pengawetan ikan. Proses ini memanfaatkan asap untuk membantu mematangkan dan mengempukkan daging, mengeringkan, memberi warna serta penampakan khas, dan membantu menurunkan mikroba awal.",
+          "Dalam kajian KKP, proses pengasapan ikan juga dapat menggabungkan tahapan seperti penerimaan bahan baku, pencucian, penyiangan, penyusunan, pengasapan, pendinginan, pengemasan, dan pelabelan. Detail proses Praba sendiri perlu disesuaikan dengan praktik produksi yang benar-benar dilakukan di tempat usaha."
+        ],
+        "en": [
+          "According to the Ministry of Marine Affairs and Fisheries, smoking or roasting is one method of processing and preserving fish. Smoke helps cook and tenderize the flesh, dry it, develop characteristic color and appearance, and can help reduce initial microbial levels.",
+          "KKP studies describe smoking processes that may include raw-material receiving, washing, cleaning, arranging, smoking, cooling, packaging and labeling. Praba’s actual process should be described only according to practices confirmed at the business location."
+        ],
+        "zh": [
+          "根据印度尼西亚海洋与渔业部，烟熏或烘烤是鱼类加工和保存的方法之一。烟气有助于鱼肉熟化和变嫩、干燥，并形成特有的色泽和外观，同时有助于降低初始微生物水平。",
+          "KKP研究显示，烟熏流程可以包括原料接收、清洗、整理、摆放、烟熏、冷却、包装和标签等步骤。Praba的实际流程应仅根据经营场所确认的真实做法进行说明。"
+        ]
+      },
+      "sourceIds": [
+        "SRC-KKP-001"
+      ]
+    },
+    {
+      "id": "ART-002",
+      "type": "article",
+      "status": "published",
+      "title": {
+        "id": "Memilih Bahan Baku Ikan dengan Mutu yang Baik",
+        "en": "Choosing Fish Raw Materials with Good Quality",
+        "zh": "选择品质良好的鱼类原料"
+      },
+      "category": "mutu",
+      "categoryLabel": {
+        "id": "MUTU",
+        "en": "Mutu",
+        "zh": "鱼类品质"
+      },
+      "imageIds": [
+        "SRC-IMG-001"
+      ],
+      "image": "images/produk-ikan-asap.jpg",
+      "paragraphs": {
+        "id": [
+          "KKP menyarankan konsumen memperhatikan beberapa tanda kesegaran ikan, antara lain mata yang jernih, insang merah segar, daging elastis, bau khas ikan segar, serta tidak terdapat lendir berlebihan.",
+          "Informasi ini penting karena kualitas bahan baku berpengaruh pada mutu produk olahan. Untuk produk yang sudah diasap, pelanggan tetap perlu mengikuti petunjuk penyimpanan dan penanganan yang diberikan pada kemasan."
+        ],
+        "en": [
+          "KKP recommends observing several signs of fish freshness, including clear eyes, fresh red gills, elastic flesh, the characteristic smell of fresh fish and the absence of excessive mucus.",
+          "This matters because raw-material quality affects the quality of processed products. For smoked products, customers should still follow the storage and handling instructions provided with the product."
+        ],
+        "zh": [
+          "KKP建议消费者观察鱼类新鲜度的多个特征，包括清澈的眼睛、鲜红的鳃、有弹性的鱼肉、鲜鱼特有气味以及没有过量黏液。",
+          "这些因素很重要，因为原料品质会影响加工产品的品质。对于烟熏产品，消费者仍应遵循产品所提供的储存和处理说明。"
+        ]
+      },
+      "sourceIds": [
+        "SRC-KKP-001"
+      ]
+    },
+    {
+      "id": "ART-003",
+      "type": "article",
+      "status": "published",
+      "title": {
+        "id": "Juwana dan Pati dalam Ekosistem Perikanan",
+        "en": "Juwana and Pati in the Fisheries Ecosystem",
+        "zh": "Juwana与Pati的渔业生态系统"
+      },
+      "category": "juwana",
+      "categoryLabel": {
+        "id": "JUWANA",
+        "en": "Juwana",
+        "zh": "Juwana • Pati"
+      },
+      "imageIds": [
+        "SRC-IMG-002"
+      ],
+      "image": "images/proses-pengasapan.jpg",
+      "paragraphs": {
+        "id": [
+          "Juwana memiliki keterkaitan kuat dengan aktivitas perikanan di Kabupaten Pati. Pemerintah Jawa Tengah mencatat pengembangan sentra industri perikanan di wilayah Juwana dan Pati diarahkan untuk meningkatkan nilai tambah hasil tangkapan serta kualitas dan sanitasi pengolahan.",
+          "Data Pemerintah Kabupaten Pati juga memuat statistik produksi perikanan tangkap dan produksi olahan perikanan menurut kecamatan. Bagi Praba, konteks lokal ini menjadi bagian dari cerita brand yang beralamat di Doropayung, Juwana."
+        ],
+        "en": [
+          "Juwana has strong ties to fisheries activity in Pati Regency. The Central Java Government records that fisheries industrial-center development in Juwana and Pati is intended to increase the added value of catches and improve processing quality and sanitation.",
+          "Pati Government data also contain capture-fisheries and processed-fisheries statistics by district. For Praba, this local context is part of the brand story because the business is located in Doropayung, Juwana."
+        ],
+        "zh": [
+          "Juwana与Pati县的渔业活动有密切联系。中爪哇省政府资料显示，Juwana和Pati渔业产业中心的发展旨在提高渔获附加值，并改善加工质量和卫生条件。",
+          "Pati政府数据也记录了按地区划分的捕捞渔业和加工渔业统计。对Praba而言，这一地方背景构成品牌故事的一部分，因为企业位于Juwana的Doropayung。"
+        ]
+      },
+      "sourceIds": [
+        "SRC-JWN-001"
+      ]
+    },
+    {
+      "id": "ART-004",
+      "type": "article",
+      "status": "published",
+      "title": {
+        "id": "Praba Sea Procesing Food: Identitas, Rasa, dan Cerita Lokal",
+        "en": "Praba Sea Procesing Food: Identity, Flavor and Local Story",
+        "zh": "Praba Sea Procesing Food：品牌身份、风味与地方故事"
+      },
+      "category": "cerita",
+      "categoryLabel": {
+        "id": "CERITA",
+        "en": "Cerita",
+        "zh": "Praba 故事"
+      },
+      "imageIds": [
+        "SRC-IMG-001"
+      ],
+      "image": "images/produk-ikan-asap.jpg",
+      "paragraphs": {
+        "id": [
+          "Praba Sea Procesing Food beralamat di Doropayung, Kecamatan Juwana, Kabupaten Pati. Website ini dibangun sebagai etalase digital untuk memperkenalkan produk, memudahkan pemesanan, dan membagikan informasi seputar seafood asap.",
+          "Bagian ini nantinya dapat dikembangkan menjadi cerita lengkap tentang awal usaha, siapa yang mengelola Praba, proses produksi yang sebenarnya, bahan baku, alasan memilih nama Praba, serta perjalanan usaha dari waktu ke waktu."
+        ],
+        "en": [
+          "Praba Sea Procesing Food is located in Doropayung, Juwana District, Pati Regency. This website serves as a digital storefront to introduce products, make ordering easier and share information about smoked seafood.",
+          "This section can later be expanded with the verified story of the business, its management, actual production practices, raw materials, the reason for the Praba name and the business journey over time."
+        ],
+        "zh": [
+          "Praba Sea Procesing Food位于Pati县Juwana区Doropayung。本网站作为数字展示平台，用于介绍产品、方便订购，并分享烟熏海鲜相关信息。",
+          "本部分未来可以根据已确认的资料进一步介绍企业起源、经营者、实际生产流程、原料、Praba名称的由来以及企业发展历程。"
+        ]
+      },
+      "sourceIds": [
+        "SRC-PRB-001"
+      ]
+    },
+    {
+      "id": "ART-005",
+      "type": "article",
+      "status": "published",
+      "title": {
+        "id": "Menyimpan Ikan Asap: Panduan dari Praba",
+        "en": "Storing Smoked Fish: Praba’s Guide",
+        "zh": "烟熏鱼储存指南：Praba"
+      },
+      "category": "mutu",
+      "categoryLabel": {
+        "id": "PENYIMPANAN",
+        "en": "Storage",
+        "zh": "储存"
+      },
+      "imageIds": [
+        "SRC-IMG-001"
+      ],
+      "image": "images/produk-ikan-asap.jpg",
+      "paragraphs": {
+        "id": [
+          "Berdasarkan informasi produk Praba, ikan asap dapat bertahan hingga 2 hari tanpa pendinginan dan hingga 7 hari dengan pendinginan. Informasi ini merupakan hasil pengujian dan pengalaman yang digunakan sebagai acuan produk, bukan jaminan untuk semua kondisi penyimpanan.",
+          "Untuk menjaga mutu, simpan produk dalam kondisi dingin, gunakan wadah yang bersih dan tertutup, dan perhatikan kondisi produk sebelum dikonsumsi."
+        ],
+        "en": [
+          "Based on Praba product information, smoked fish can last up to 2 days without cooling and up to 7 days with cooling. This information is based on testing and experience as a product reference, not a guarantee for every storage condition.",
+          "To help maintain quality, keep the product chilled, use a clean and covered container, and check the product condition before consumption."
+        ],
+        "zh": [
+          "根据Praba产品信息，烟熏鱼在不冷藏条件下最长可保存2天，冷藏条件下最长可保存7天。该信息基于产品测试和经验，仅作为产品参考，并不保证适用于所有储存条件。",
+          "为帮助保持品质，请将产品冷藏，使用清洁且有盖的容器，并在食用前检查产品状态。"
+        ]
+      },
+      "sourceIds": [
+        "SRC-PRB-001"
+      ]
+    },
+    {
+      "id": "ART-006",
+      "type": "article",
+      "status": "published",
+      "title": {
+        "id": "Dari Bahan Baku hingga Ikan Asap Siap Dijual",
+        "en": "From Raw Material to Ready-to-Sell Smoked Fish",
+        "zh": "从原料到可销售的烟熏鱼"
+      },
+      "category": "pengasapan",
+      "categoryLabel": {
+        "id": "PROSES PRABA",
+        "en": "PRABA PROCESS",
+        "zh": "PRABA流程"
+      },
+      "imageIds": [
+        "SRC-IMG-002"
+      ],
+      "image": "images/proses-pengasapan.jpg",
+      "paragraphs": {
+        "id": [
+          "Proses Praba dimulai dari bahan baku yang diperoleh dari gabungan berbagai sumber. Ikan dipotong sesuai kebutuhan ukuran, kemudian dibersihkan dengan air mengalir.",
+          "Pengasapan menggunakan tungku dengan bahan bakar tongkol jagung. Proses berlangsung sekitar 5 menit dan dilakukan sebanyak 3 kali. Setelah pengasapan, ikan didiamkan pada suhu ruang sebelum dikemas atau disimpan dalam pendinginan menggunakan es."
+        ],
+        "en": [
+          "Praba begins with raw materials obtained from a combination of sources. The fish is cut according to the required size and then cleaned under running water.",
+          "Smoking uses a stove fueled by corn cobs. The process takes about 5 minutes and is repeated three times. After smoking, the fish is left at room temperature before being packaged or stored under ice cooling."
+        ],
+        "zh": [
+          "Praba的流程从多种来源获得的原料开始。鱼按所需大小切割，然后用流动水清洗。",
+          "烟熏使用以玉米芯为燃料的炉灶。每次约5分钟，共进行3次。烟熏后，鱼在室温下静置，然后进行包装或放入冰中冷却储存。"
+        ]
+      },
+      "sourceIds": [
+        "SRC-PRB-001"
+      ]
+    }
+  ]
+}

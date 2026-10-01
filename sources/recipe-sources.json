@@ -1,0 +1,124 @@
+{
+  "recipes": [
+    {
+      "sourceId": "SRC-REC-001",
+      "recipe": "Mangut Ikan Asap",
+      "source": "ResepKoki",
+      "url": "https://resepkoki.id/resep/resep-mangut-ikan-asap/",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-001"
+      ],
+      "notes": "Referensi inspirasi; resep website ditulis ulang."
+    },
+    {
+      "sourceId": "SRC-REC-002",
+      "recipe": "Ikan Asap Sambal Matah",
+      "source": "IDN Times",
+      "url": "https://www.idntimes.com/food/recipe/resep-ikan-asap-sambal-matah-c1c2-01-mtn6k-gwr5pv/",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-002"
+      ],
+      "notes": "Referensi inspirasi; resep website ditulis ulang."
+    },
+    {
+      "sourceId": "SRC-REC-003",
+      "recipe": "Ikan Asap Masak Rica",
+      "source": "IDN Times",
+      "url": "https://www.idntimes.com/food/recipe/resep-ikan-asap-masak-rica-00-z5hk4-v02lr6",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-003"
+      ],
+      "notes": "Referensi inspirasi; resep website ditulis ulang."
+    },
+    {
+      "sourceId": "SRC-REC-004",
+      "recipe": "Ikan Asap Balado",
+      "source": "Cookpad",
+      "url": "https://cookpad.com/id/resep/15479842",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-004"
+      ],
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "sourceId": "SRC-REC-005",
+      "recipe": "Ikan Asap Sambal Ijo",
+      "source": "Cookpad",
+      "url": "https://cookpad.com/id/resep/15407497",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-005"
+      ],
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "sourceId": "SRC-REC-006",
+      "recipe": "Ikan Asap Kecap",
+      "source": "Cookpad",
+      "url": "https://cookpad.com/id/resep/14541844",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-006"
+      ],
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "sourceId": "SRC-REC-007",
+      "recipe": "Ikan Asap Bumbu Woku",
+      "source": "Cookpad",
+      "url": "https://cookpad.com/id/resep/11884940",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-007"
+      ],
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "sourceId": "SRC-REC-008",
+      "recipe": "Pepes Ikan Asap",
+      "source": "Cookpad",
+      "url": "https://cookpad.com/id/resep/11251365",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-008"
+      ],
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "sourceId": "SRC-REC-009",
+      "recipe": "Nasi Goreng Ikan Asap Suwir",
+      "source": "detikFood",
+      "url": "https://food.detik.com/nasi/d-6369582/resep-nasi-goreng-ikan-asap-suwir-yang-gurih-harum-buat-bekal",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-009"
+      ],
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "sourceId": "SRC-REC-010",
+      "recipe": "Tumis Ikan Asar Petai",
+      "source": "Cookpad",
+      "url": "https://cookpad.com/id/resep/15711509",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REC-010"
+      ],
+      "notes": "Referensi inspirasi."
+    }
+  ]
+}

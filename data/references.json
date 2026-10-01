@@ -1,0 +1,79 @@
+{
+  "references": [
+    {
+      "id": "REF-001",
+      "type": "reference",
+      "status": "published",
+      "title": {
+        "id": "Mengenal Rantai Dingin untuk Menjaga Mutu Ikan",
+        "en": "Understanding the Cold Chain for Fish Quality",
+        "zh": "了解保持鱼类品质的冷链"
+      },
+      "organization": "Kementerian Kelautan dan Perikanan",
+      "category": "cold-chain",
+      "sourceIds": [
+        "SRC-KKP-002"
+      ]
+    },
+    {
+      "id": "REF-002",
+      "type": "reference",
+      "status": "published",
+      "title": {
+        "id": "Cara Penanganan Ikan yang Baik",
+        "en": "Good Fish Handling",
+        "zh": "良好鱼类处理规范"
+      },
+      "organization": "Kementerian Kelautan dan Perikanan",
+      "category": "food-safety",
+      "sourceIds": [
+        "SRC-KKP-001"
+      ]
+    },
+    {
+      "id": "REF-003",
+      "type": "reference",
+      "status": "published",
+      "title": {
+        "id": "ISO 9001:2026 — Quality Management Systems",
+        "en": "ISO 9001:2026 — Quality Management Systems",
+        "zh": "ISO 9001:2026 — 质量管理体系"
+      },
+      "organization": "International Organization for Standardization",
+      "category": "iso9001",
+      "sourceIds": [
+        "SRC-ISO-9001-001"
+      ]
+    },
+    {
+      "id": "REF-004",
+      "type": "reference",
+      "status": "published",
+      "title": {
+        "id": "ISO 14001:2026 — Environmental Management Systems",
+        "en": "ISO 14001:2026 — Environmental Management Systems",
+        "zh": "ISO 14001:2026 — 环境管理体系"
+      },
+      "organization": "International Organization for Standardization",
+      "category": "iso14001",
+      "sourceIds": [
+        "SRC-ISO-14001-001"
+      ]
+    },
+    {
+      "id": "REF-005",
+      "type": "reference",
+      "status": "published",
+      "title": {
+        "id": "Sentra Industri Perikanan Juwana/Pati",
+        "en": "Juwana/Pati Fisheries Industrial Center",
+        "zh": "Juwana/Pati 渔业产业中心"
+      },
+      "organization": "Pemerintah Provinsi Jawa Tengah",
+      "category": "juwana",
+      "sourceIds": [
+        "SRC-JWN-001"
+      ]
+    }
+  ]
+}

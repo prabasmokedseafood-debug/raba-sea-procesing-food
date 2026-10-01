@@ -1,0 +1,1300 @@
+{
+  "recipes": [
+    {
+      "id": "REC-001",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Mangut Ikan Asap",
+        "en": "Smoked Fish in Coconut Milk",
+        "zh": "椰奶烟熏鱼"
+      },
+      "description": {
+        "id": "Kuah santan gurih dengan cabai, kencur, daun jeruk, dan lengkuas. Cocok untuk ikan asap berdaging tebal.",
+        "en": "Savory coconut-milk gravy with chilies, kencur, kaffir lime leaves and galangal, suited to thick-fleshed smoked fish.",
+        "zh": "以椰奶、辣椒、南姜、青柠叶和南姜调制的浓郁汤汁，适合肉质较厚的烟熏鱼。"
+      },
+      "category": "santan",
+      "label": {
+        "id": "JAWA • SANTAN",
+        "en": "JAVA • COCONUT MILK",
+        "zh": "爪哇 • 椰奶"
+      },
+      "timeMinutes": 45,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-003"
+      ],
+      "image": "images/mangut-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-REC-001"
+      ],
+      "ingredients": {
+        "id": [
+          "400 g ikan asap",
+          "400 ml santan",
+          "200 ml air",
+          "5 bawang merah, 3 bawang putih",
+          "2 kemiri, 2 cabai merah, 1 cm kunyit, 1 cm kencur",
+          "2 daun jeruk, 1 daun salam, 2 cm lengkuas",
+          "Cabai rawit dan cabai hijau sesuai selera",
+          "Garam dan sedikit gula"
+        ],
+        "en": [
+          "400 g smoked fish",
+          "400 ml coconut milk",
+          "200 ml water",
+          "5 shallots, 3 garlic cloves",
+          "2 candlenuts, 2 red chilies, 1 cm turmeric, 1 cm kencur",
+          "2 kaffir lime leaves, 1 bay leaf, 2 cm galangal",
+          "Bird’s eye chilies and green chilies to taste",
+          "Salt and a little sugar"
+        ],
+        "zh": [
+          "400克烟熏鱼",
+          "400毫升椰奶",
+          "200毫升水",
+          "5个红葱头，3瓣蒜",
+          "2颗石栗、2个红辣椒、1厘米姜黄、1厘米南姜",
+          "2片青柠叶、1片月桂叶、2厘米南姜",
+          "小米椒和青辣椒适量",
+          "盐和少许糖"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Tumis bumbu halus bersama daun salam, daun jeruk, dan lengkuas sampai harum.",
+          "Tuang air dan santan. Aduk perlahan agar santan tidak pecah.",
+          "Masukkan ikan asap dan cabai. Masak dengan api sedang sampai bumbu meresap.",
+          "Koreksi garam dan gula, lalu sajikan dengan nasi hangat."
+        ],
+        "en": [
+          "Sauté the ground spices with bay leaf, kaffir lime leaves and galangal until fragrant.",
+          "Pour in water and coconut milk. Stir gently to keep the coconut milk from splitting.",
+          "Add smoked fish and chilies. Cook over medium heat until the seasoning is absorbed.",
+          "Adjust salt and sugar, then serve with warm rice."
+        ],
+        "zh": [
+          "将香料、月桂叶、青柠叶和南姜炒香。",
+          "加入水和椰奶，轻轻搅拌，避免椰奶分离。",
+          "加入烟熏鱼和辣椒，中火煮至入味。",
+          "调整盐和糖，配热米饭享用。"
+        ]
+      }
+    },
+    {
+      "id": "REC-002",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Ikan Asap Sambal Matah",
+        "en": "Smoked Fish with Sambal Matah",
+        "zh": "巴厘式生辣椒酱烟熏鱼"
+      },
+      "description": {
+        "id": "Perpaduan ikan asap gurih dengan bawang merah, serai, cabai, jeruk, dan minyak panas.",
+        "en": "Savory smoked fish with shallots, lemongrass, chilies, citrus and hot oil.",
+        "zh": "烟熏鱼搭配红葱、香茅、辣椒、柑橘和热油，风味清新浓郁。"
+      },
+      "category": "pedas",
+      "label": {
+        "id": "PEDAS • SAMBAL",
+        "en": "SPICY • CHILI",
+        "zh": "辛辣 • 辣椒"
+      },
+      "timeMinutes": 45,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-004"
+      ],
+      "image": "images/ikan-asap-sambal-matah.jpg",
+      "sourceIds": [
+        "SRC-REC-002"
+      ],
+      "ingredients": {
+        "id": [
+          "400 g ikan asap",
+          "8 bawang merah, iris tipis",
+          "2 batang serai, ambil bagian putih",
+          "8–12 cabai rawit, iris",
+          "2 lembar daun jeruk, iris halus",
+          "1–2 jeruk limau/nipis",
+          "3–4 sdm minyak kelapa atau minyak goreng panas",
+          "Garam secukupnya"
+        ],
+        "en": [
+          "400 g smoked fish",
+          "8 shallots, thinly sliced",
+          "2 lemongrass stalks, white part only",
+          "8–12 bird’s eye chilies, sliced",
+          "2 kaffir lime leaves, finely sliced",
+          "1–2 calamansi or lime",
+          "3–4 tbsp coconut oil or hot cooking oil",
+          "Salt to taste"
+        ],
+        "zh": [
+          "400克烟熏鱼",
+          "8个红葱头，薄切",
+          "2根香茅，取白色部分",
+          "8–12个小米椒，切片",
+          "2片青柠叶，细切",
+          "1–2个酸柑或青柠",
+          "3–4汤匙椰油或热食用油",
+          "适量盐"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Panggang atau panaskan ikan sebentar agar aromanya kembali keluar.",
+          "Campur bawang, serai, cabai, daun jeruk, dan garam.",
+          "Siram dengan minyak panas, aduk, lalu beri perasan jeruk.",
+          "Sajikan sambal matah di atas atau di samping ikan."
+        ],
+        "en": [
+          "Grill or briefly heat the fish to bring out its aroma.",
+          "Mix shallots, lemongrass, chilies, kaffir lime leaves and salt.",
+          "Pour over hot oil, mix, then add citrus juice.",
+          "Serve the sambal matah over or beside the fish."
+        ],
+        "zh": [
+          "将鱼短暂烤热或加热，使香气恢复。",
+          "混合红葱、香茅、辣椒、青柠叶和盐。",
+          "淋入热油拌匀，再加入柑橘汁。",
+          "将巴厘式生辣椒酱放在鱼上或旁边食用。"
+        ]
+      }
+    },
+    {
+      "id": "REC-003",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Ikan Asap Rica-Rica",
+        "en": "Smoked Fish Rica-Rica",
+        "zh": "香辣烟熏鱼"
+      },
+      "description": {
+        "id": "Bumbu cabai dan serai yang wangi menonjolkan rasa asap tanpa membutuhkan kuah banyak.",
+        "en": "Fragrant chili and lemongrass seasoning that highlights smoky flavor without much sauce.",
+        "zh": "香辣椒和香茅调味突出烟熏香气，不需要大量汤汁。"
+      },
+      "category": "pedas",
+      "label": {
+        "id": "PEDAS • SAMBAL",
+        "en": "SPICY • CHILI",
+        "zh": "辛辣 • 辣椒"
+      },
+      "timeMinutes": 45,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-005"
+      ],
+      "image": "images/ikan-asap-rica-rica.jpg",
+      "sourceIds": [
+        "SRC-REC-003"
+      ],
+      "ingredients": {
+        "id": [
+          "400 g ikan asap, suwir kasar",
+          "8 bawang merah",
+          "4 bawang putih",
+          "8 cabai merah keriting + cabai rawit sesuai selera",
+          "2 batang serai",
+          "2 cm jahe",
+          "4 daun jeruk",
+          "1 tomat hijau, potong",
+          "Garam dan sedikit gula"
+        ],
+        "en": [
+          "400 g smoked fish, roughly shredded",
+          "8 shallots",
+          "4 garlic cloves",
+          "8 curly red chilies + bird’s eye chilies to taste",
+          "2 lemongrass stalks",
+          "2 cm ginger",
+          "4 kaffir lime leaves",
+          "1 green tomato, chopped",
+          "Salt and a little sugar"
+        ],
+        "zh": [
+          "400克烟熏鱼，粗略撕碎",
+          "8个红葱头",
+          "4瓣蒜",
+          "8个卷曲红辣椒和适量小米椒",
+          "2根香茅",
+          "2厘米姜",
+          "4片青柠叶",
+          "1个青番茄，切块",
+          "盐和少许糖"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Tumis bumbu yang diulek kasar bersama serai dan daun jeruk sampai matang.",
+          "Masukkan ikan asap suwir, aduk hingga bumbu melapisi seluruh bagian.",
+          "Tambahkan tomat dan cabai rawit. Masak sebentar agar tekstur ikan tetap terasa.",
+          "Koreksi rasa dan sajikan."
+        ],
+        "en": [
+          "Sauté the coarsely ground spices with lemongrass and kaffir lime leaves until cooked.",
+          "Add shredded smoked fish and stir until coated.",
+          "Add tomato and bird’s eye chilies. Cook briefly so the fish keeps its texture.",
+          "Adjust seasoning and serve."
+        ],
+        "zh": [
+          "将粗磨香料与香茅、青柠叶炒熟。",
+          "加入撕碎的烟熏鱼，翻拌至均匀裹上调味料。",
+          "加入番茄和小米椒，短暂烹煮以保留鱼肉口感。",
+          "调整味道后即可食用。"
+        ]
+      }
+    },
+    {
+      "id": "REC-004",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Ikan Asap Balado",
+        "en": "Balado Smoked Fish",
+        "zh": "巴拉多辣酱烟熏鱼"
+      },
+      "description": {
+        "id": "Balado merah yang pedas-gurih dengan tekstur ikan asap yang disuwir.",
+        "en": "A spicy-savory red balado sauce with shredded smoked fish.",
+        "zh": "以红色巴拉多辣酱搭配撕碎烟熏鱼，香辣咸鲜。"
+      },
+      "category": "pedas",
+      "label": {
+        "id": "PEDAS • SAMBAL",
+        "en": "SPICY • CHILI",
+        "zh": "辛辣 • 辣椒"
+      },
+      "timeMinutes": 45,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-006"
+      ],
+      "image": "images/ikan-asap-balado.jpg",
+      "sourceIds": [
+        "SRC-REC-004"
+      ],
+      "ingredients": {
+        "id": [
+          "400 g ikan asap",
+          "8 cabai merah keriting",
+          "3 cabai merah besar",
+          "6 bawang merah",
+          "3 bawang putih",
+          "1 tomat merah",
+          "1 sdt gula, garam secukupnya",
+          "Minyak untuk menumis"
+        ],
+        "en": [
+          "400 g smoked fish",
+          "8 curly red chilies",
+          "3 large red chilies",
+          "6 shallots",
+          "3 garlic cloves",
+          "1 red tomato",
+          "1 tsp sugar, salt to taste",
+          "Oil for sautéing"
+        ],
+        "zh": [
+          "400克烟熏鱼",
+          "8个卷曲红辣椒",
+          "3个大红辣椒",
+          "6个红葱头",
+          "3瓣蒜",
+          "1个红番茄",
+          "1茶匙糖，适量盐",
+          "炒菜油"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Suwir ikan asap dan buang tulang yang tersisa.",
+          "Ulek/blender kasar cabai, bawang, dan tomat.",
+          "Tumis bumbu sampai matang dan minyak mulai terpisah.",
+          "Masukkan ikan, aduk rata, lalu masak 3–5 menit."
+        ],
+        "en": [
+          "Shred the smoked fish and remove any remaining bones.",
+          "Coarsely pound or blend chilies, shallots, garlic and tomato.",
+          "Sauté the seasoning until cooked and the oil begins to separate.",
+          "Add fish, stir well, then cook for 3–5 minutes."
+        ],
+        "zh": [
+          "将烟熏鱼撕碎并去除残留鱼骨。",
+          "将辣椒、红葱、蒜和番茄粗略捣碎或搅拌。",
+          "将调味料炒熟，直到油开始分离。",
+          "加入鱼肉拌匀，再煮3–5分钟。"
+        ]
+      }
+    },
+    {
+      "id": "REC-005",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Ikan Asap Sambal Ijo",
+        "en": "Smoked Fish with Green Chili",
+        "zh": "青辣椒烟熏鱼"
+      },
+      "description": {
+        "id": "Versi hijau dengan cabai hijau, tomat hijau, bawang, dan sedikit jeruk untuk rasa segar.",
+        "en": "A fresh green version with green chilies, green tomatoes, shallots and a little citrus.",
+        "zh": "以青辣椒、青番茄、红葱和少量柑橘调制，口感清新。"
+      },
+      "category": "pedas",
+      "label": {
+        "id": "PEDAS • SAMBAL",
+        "en": "SPICY • CHILI",
+        "zh": "辛辣 • 辣椒"
+      },
+      "timeMinutes": 45,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-007"
+      ],
+      "image": "images/ikan-asap-sambal-ijo.jpg",
+      "sourceIds": [
+        "SRC-REC-005"
+      ],
+      "ingredients": {
+        "id": [
+          "400 g ikan asap",
+          "10 cabai hijau keriting",
+          "5 cabai rawit hijau",
+          "5 bawang merah, 3 bawang putih",
+          "2 tomat hijau",
+          "1 sdm ebi sangrai, opsional",
+          "1 jeruk nipis",
+          "Garam dan sedikit gula"
+        ],
+        "en": [
+          "400 g smoked fish",
+          "10 curly green chilies",
+          "5 green bird’s eye chilies",
+          "5 shallots, 3 garlic cloves",
+          "2 green tomatoes",
+          "1 tbsp toasted dried shrimp, optional",
+          "1 lime",
+          "Salt and a little sugar"
+        ],
+        "zh": [
+          "400克烟熏鱼",
+          "10个卷曲青辣椒",
+          "5个青小米椒",
+          "5个红葱头，3瓣蒜",
+          "2个青番茄",
+          "1汤匙烤虾米，可选",
+          "1个青柠",
+          "盐和少许糖"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Kukus atau rebus singkat cabai dan tomat agar lebih mudah diulek.",
+          "Ulek kasar bersama bawang dan garam.",
+          "Tumis sambal hingga harum, tambahkan ebi jika digunakan.",
+          "Masukkan ikan asap, aduk sebentar, lalu beri perasan jeruk."
+        ],
+        "en": [
+          "Steam or briefly boil chilies and tomatoes so they are easier to pound.",
+          "Coarsely pound with shallots, garlic and salt.",
+          "Sauté the sambal until fragrant; add dried shrimp if using.",
+          "Add smoked fish, stir briefly, then add lime juice."
+        ],
+        "zh": [
+          "将辣椒和番茄蒸或短煮，使其更容易捣碎。",
+          "与红葱、蒜和盐一起粗略捣碎。",
+          "将辣椒酱炒香，如使用虾米则加入。",
+          "加入烟熏鱼翻拌片刻，再挤入青柠汁。"
+        ]
+      }
+    },
+    {
+      "id": "REC-006",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Ikan Asap Bumbu Kecap",
+        "en": "Soy-Sauce Smoked Fish",
+        "zh": "甜酱油烟熏鱼"
+      },
+      "description": {
+        "id": "Pilihan sederhana untuk makan malam: kecap manis, bawang, cabai, tomat, dan daun jeruk.",
+        "en": "A simple combination of sweet soy sauce, shallots, chilies, tomato and kaffir lime leaves.",
+        "zh": "甜酱油、红葱、辣椒、番茄和青柠叶组成的简易家常做法。"
+      },
+      "category": "praktis",
+      "label": {
+        "id": "PRAKTIS",
+        "en": "QUICK",
+        "zh": "简易"
+      },
+      "timeMinutes": 45,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-008"
+      ],
+      "image": "images/ikan-asap-bumbu-kecap.jpg",
+      "sourceIds": [
+        "SRC-REC-006"
+      ],
+      "ingredients": {
+        "id": [
+          "400 g ikan asap",
+          "5 bawang merah, 3 bawang putih",
+          "2 cabai merah dan 2 cabai rawit",
+          "1 tomat",
+          "2 daun jeruk",
+          "3 sdm kecap manis",
+          "150 ml air",
+          "Garam dan lada"
+        ],
+        "en": [
+          "400 g smoked fish",
+          "5 shallots, 3 garlic cloves",
+          "2 red chilies and 2 bird’s eye chilies",
+          "1 tomato",
+          "2 kaffir lime leaves",
+          "3 tbsp sweet soy sauce",
+          "150 ml water",
+          "Salt and pepper"
+        ],
+        "zh": [
+          "400克烟熏鱼",
+          "5个红葱头，3瓣蒜",
+          "2个红辣椒和2个小米椒",
+          "1个番茄",
+          "2片青柠叶",
+          "3汤匙甜酱油",
+          "150毫升水",
+          "盐和胡椒"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Panaskan ikan sebentar di wajan lalu sisihkan.",
+          "Tumis bawang, cabai, dan daun jeruk sampai harum.",
+          "Tambahkan air, kecap, tomat, garam, dan lada.",
+          "Masukkan ikan dan masak sampai kuah mengental serta bumbu meresap."
+        ],
+        "en": [
+          "Warm the fish briefly in a pan, then set aside.",
+          "Sauté shallots, chilies and kaffir lime leaves until fragrant.",
+          "Add water, sweet soy sauce, tomato, salt and pepper.",
+          "Add fish and cook until the sauce thickens and the seasoning is absorbed."
+        ],
+        "zh": [
+          "在锅中短暂加热鱼，取出备用。",
+          "将红葱、辣椒和青柠叶炒香。",
+          "加入水、甜酱油、番茄、盐和胡椒。",
+          "加入鱼，煮至酱汁浓稠并入味。"
+        ]
+      }
+    },
+    {
+      "id": "REC-007",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Ikan Asap Woku Kemangi",
+        "en": "Smoked Fish Woku with Basil",
+        "zh": "罗勒香料烟熏鱼"
+      },
+      "description": {
+        "id": "Bumbu kunyit, jahe, serai, daun jeruk, dan kemangi memberi aroma rempah yang kuat.",
+        "en": "Turmeric, ginger, lemongrass, kaffir lime leaves and basil create a strong herbal aroma.",
+        "zh": "姜黄、姜、香茅、青柠叶和罗勒带来浓郁香料香气。"
+      },
+      "category": "tradisional",
+      "label": {
+        "id": "TRADISIONAL",
+        "en": "TRADITIONAL",
+        "zh": "传统"
+      },
+      "timeMinutes": 45,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-009"
+      ],
+      "image": "images/ikan-asap-woku-kemangi.jpg",
+      "sourceIds": [
+        "SRC-REC-007"
+      ],
+      "ingredients": {
+        "id": [
+          "400 g ikan asap",
+          "6 bawang merah, 3 bawang putih",
+          "5 cabai merah + rawit sesuai selera",
+          "2 cm kunyit, 2 cm jahe",
+          "2 batang serai, 4 daun jeruk",
+          "1 tomat",
+          "1 genggam kemangi",
+          "200 ml air, garam secukupnya"
+        ],
+        "en": [
+          "400 g smoked fish",
+          "6 shallots, 3 garlic cloves",
+          "5 red chilies + bird’s eye chilies to taste",
+          "2 cm turmeric, 2 cm ginger",
+          "2 lemongrass stalks, 4 kaffir lime leaves",
+          "1 tomato",
+          "1 handful basil leaves",
+          "200 ml water, salt to taste"
+        ],
+        "zh": [
+          "400克烟熏鱼",
+          "6个红葱头，3瓣蒜",
+          "5个红辣椒和适量小米椒",
+          "2厘米姜黄、2厘米姜",
+          "2根香茅、4片青柠叶",
+          "1个番茄",
+          "1把罗勒叶",
+          "200毫升水，适量盐"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Haluskan bawang, cabai, kunyit, dan jahe.",
+          "Tumis bumbu bersama serai dan daun jeruk sampai matang.",
+          "Masukkan ikan dan air, lalu masak hingga bumbu meresap.",
+          "Tambahkan tomat dan kemangi pada akhir proses, aduk sebentar lalu angkat."
+        ],
+        "en": [
+          "Blend shallots, chilies, turmeric and ginger.",
+          "Sauté the spices with lemongrass and kaffir lime leaves until cooked.",
+          "Add fish and water, then cook until the seasoning is absorbed.",
+          "Add tomato and basil at the end, stir briefly and remove from heat."
+        ],
+        "zh": [
+          "将红葱、辣椒、姜黄和姜打碎。",
+          "与香茅和青柠叶一起炒熟。",
+          "加入鱼和水，煮至入味。",
+          "最后加入番茄和罗勒，翻拌片刻后关火。"
+        ]
+      }
+    },
+    {
+      "id": "REC-008",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Pepe Ikan Asap",
+        "en": "Steamed Smoked Fish in Banana Leaf",
+        "zh": "香蕉叶蒸烟熏鱼"
+      },
+      "description": {
+        "id": "Ikan asap dibalut bumbu merah lalu dikukus dalam daun pisang sehingga aromanya menyatu.",
+        "en": "Smoked fish coated with red seasoning, wrapped in banana leaf and steamed.",
+        "zh": "烟熏鱼裹上红色香料，用香蕉叶包裹后蒸制。"
+      },
+      "category": "tradisional",
+      "label": {
+        "id": "TRADISIONAL",
+        "en": "TRADITIONAL",
+        "zh": "传统"
+      },
+      "timeMinutes": 45,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-010"
+      ],
+      "image": "images/pepes-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-REC-008"
+      ],
+      "ingredients": {
+        "id": [
+          "400 g ikan asap",
+          "6 bawang merah, 3 bawang putih",
+          "5 cabai merah + rawit sesuai selera",
+          "2 kemiri",
+          "1 tomat",
+          "2 daun jeruk, 1 batang serai",
+          "1 sdt terasi bakar, opsional",
+          "Daun pisang, garam, gula"
+        ],
+        "en": [
+          "400 g smoked fish",
+          "6 shallots, 3 garlic cloves",
+          "5 red chilies + bird’s eye chilies to taste",
+          "2 candlenuts",
+          "1 tomato",
+          "2 kaffir lime leaves, 1 lemongrass stalk",
+          "1 tsp toasted shrimp paste, optional",
+          "Banana leaves, salt and sugar"
+        ],
+        "zh": [
+          "400克烟熏鱼",
+          "6个红葱头，3瓣蒜",
+          "5个红辣椒和适量小米椒",
+          "2颗石栗",
+          "1个番茄",
+          "2片青柠叶、1根香茅",
+          "1茶匙烤虾酱，可选",
+          "香蕉叶、盐和糖"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Haluskan bawang, cabai, kemiri, tomat, dan bumbu. Tumis hingga matang.",
+          "Letakkan ikan di atas daun pisang dan balur dengan bumbu.",
+          "Tambahkan serai dan daun jeruk, lalu bungkus rapat.",
+          "Kukus sekitar 20 menit. Untuk aroma lebih kuat, panggang sebentar setelah dikukus."
+        ],
+        "en": [
+          "Blend shallots, chilies, candlenuts, tomato and seasonings. Sauté until cooked.",
+          "Place fish on banana leaves and coat with the seasoning.",
+          "Add lemongrass and kaffir lime leaves, then wrap tightly.",
+          "Steam for about 20 minutes. For a stronger aroma, grill briefly after steaming."
+        ],
+        "zh": [
+          "将红葱、辣椒、石栗、番茄和调味料打碎，炒熟。",
+          "将鱼放在香蕉叶上并抹上调味料。",
+          "加入香茅和青柠叶，包紧。",
+          "蒸约20分钟；想要更浓郁的香气，可蒸后短暂烤香。"
+        ]
+      }
+    },
+    {
+      "id": "REC-009",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Nasi Goreng Ikan Asap Suwir",
+        "en": "Shredded Smoked Fish Fried Rice",
+        "zh": "烟熏鱼丝炒饭"
+      },
+      "description": {
+        "id": "Cara praktis memanfaatkan ikan asap menjadi nasi goreng gurih untuk sarapan atau bekal.",
+        "en": "A practical way to turn smoked fish into savory fried rice for breakfast or a packed meal.",
+        "zh": "把烟熏鱼做成咸香炒饭，适合早餐或便当。"
+      },
+      "category": "praktis",
+      "label": {
+        "id": "PRAKTIS",
+        "en": "QUICK",
+        "zh": "简易"
+      },
+      "timeMinutes": 30,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-011"
+      ],
+      "image": "images/nasi-goreng-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-REC-009"
+      ],
+      "ingredients": {
+        "id": [
+          "2 piring nasi putih dingin",
+          "120 g ikan asap suwir",
+          "1 telur",
+          "3 bawang merah, 2 bawang putih",
+          "1 cabai merah, opsional rawit",
+          "1/2 cm jahe, cincang",
+          "1 wortel kecil, daun bawang",
+          "1 sdm kecap ikan atau kecap asin, garam dan lada"
+        ],
+        "en": [
+          "2 plates cold cooked rice",
+          "120 g shredded smoked fish",
+          "1 egg",
+          "3 shallots, 2 garlic cloves",
+          "1 red chili, optional bird’s eye chili",
+          "1/2 cm ginger, finely chopped",
+          "1 small carrot, spring onion",
+          "1 tbsp fish sauce or soy sauce, salt and pepper"
+        ],
+        "zh": [
+          "2盘冷米饭",
+          "120克撕碎的烟熏鱼",
+          "1个鸡蛋",
+          "3个红葱头，2瓣蒜",
+          "1个红辣椒，可选小米椒",
+          "1/2厘米姜，切碎",
+          "1根小胡萝卜、葱",
+          "1汤匙鱼露或酱油，盐和胡椒"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Tumis bawang, jahe, dan cabai hingga harum.",
+          "Masukkan telur dan orak-arik, lalu tambahkan ikan asap.",
+          "Masukkan nasi dan wortel. Aduk cepat dengan api agak besar.",
+          "Bumbui kecap, garam, dan lada. Tambahkan daun bawang sebelum disajikan."
+        ],
+        "en": [
+          "Sauté shallots, ginger and chili until fragrant.",
+          "Add egg and scramble, then add smoked fish.",
+          "Add rice and carrot. Stir quickly over medium-high heat.",
+          "Season with fish sauce, salt and pepper. Add spring onion before serving."
+        ],
+        "zh": [
+          "将红葱、姜和辣椒炒香。",
+          "加入鸡蛋炒散，再加入烟熏鱼。",
+          "加入米饭和胡萝卜，用中大火快速翻炒。",
+          "加入鱼露或酱油、盐和胡椒调味，出锅前加入葱。"
+        ]
+      }
+    },
+    {
+      "id": "REC-010",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Tumis Ikan Asap Petai",
+        "en": "Stir-Fried Smoked Fish with Petai",
+        "zh": "臭豆炒烟熏鱼"
+      },
+      "description": {
+        "id": "Tumis cepat dengan petai, bawang, tomat, dan paprika/cabai. Cocok untuk ikan asap yang mudah disuwir.",
+        "en": "A quick stir-fry with petai, shallots, tomato and green chili or pepper.",
+        "zh": "搭配臭豆、红葱、番茄和青辣椒的快速炒制料理。"
+      },
+      "category": "praktis",
+      "label": {
+        "id": "PRAKTIS",
+        "en": "QUICK",
+        "zh": "简易"
+      },
+      "timeMinutes": 30,
+      "servings": 4,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-012"
+      ],
+      "image": "images/tumis-ikan-asap-petai.jpg",
+      "sourceIds": [
+        "SRC-REC-010"
+      ],
+      "ingredients": {
+        "id": [
+          "350–400 g ikan asap, suwir",
+          "1 papan petai",
+          "5 bawang merah, 3 bawang putih",
+          "1/2 paprika hijau atau 3 cabai hijau",
+          "1/2 tomat",
+          "50–100 ml air",
+          "Garam dan sedikit gula",
+          "Minyak untuk menumis"
+        ],
+        "en": [
+          "350–400 g smoked fish, shredded",
+          "1 board of petai beans",
+          "5 shallots, 3 garlic cloves",
+          "1/2 green bell pepper or 3 green chilies",
+          "1/2 tomato",
+          "50–100 ml water",
+          "Salt and a little sugar",
+          "Oil for sautéing"
+        ],
+        "zh": [
+          "350–400克烟熏鱼，撕碎",
+          "1串臭豆",
+          "5个红葱头，3瓣蒜",
+          "1/2个青椒或3个青辣椒",
+          "1/2个番茄",
+          "50–100毫升水",
+          "盐和少许糖",
+          "炒菜油"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Tumis bawang hingga harum.",
+          "Masukkan petai dan ikan asap, aduk rata.",
+          "Tambahkan sedikit air agar bumbu tidak cepat kering.",
+          "Masukkan paprika/cabai dan tomat pada tahap akhir. Koreksi rasa lalu sajikan."
+        ],
+        "en": [
+          "Sauté shallots and garlic until fragrant.",
+          "Add petai and smoked fish, stir well.",
+          "Add a little water so the seasoning does not dry out too quickly.",
+          "Add bell pepper or chilies and tomato at the end. Adjust seasoning and serve."
+        ],
+        "zh": [
+          "将红葱和蒜炒香。",
+          "加入臭豆和烟熏鱼，翻拌均匀。",
+          "加入少量水，避免调味料过快变干。",
+          "最后加入青椒或青辣椒和番茄，调整味道后即可食用。"
+        ]
+      }
+    },
+    {
+      "id": "REC-011",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Ikan Asap Goreng Sambal Tomat",
+        "en": "Smoked Fish with Tomato Chili Relish",
+        "zh": "烟熏鱼配番茄辣椒酱"
+      },
+      "description": {
+        "id": "Inspirasi olahan ikan asap goreng sambal tomat untuk sajian rumahan.",
+        "en": "A home-style idea for smoked fish with tomato chili relish.",
+        "zh": "适合家庭烹饪的烟熏鱼配番茄辣椒酱。"
+      },
+      "category": "pedas",
+      "label": {
+        "id": "PEDAS • SAMBAL",
+        "en": "SPICY • CHILI",
+        "zh": "辛辣 • 辣椒"
+      },
+      "timeMinutes": 30,
+      "servings": 3,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-004"
+      ],
+      "image": "images/ikan-asap-sambal-matah.jpg",
+      "sourceIds": [
+        "SRC-REC-WEB-001"
+      ],
+      "ingredients": {
+        "id": [
+          "300 g ikan asap",
+          "2 tomat merah",
+          "6 cabai merah keriting",
+          "3 bawang merah",
+          "1 bawang putih",
+          "1/2 sdt gula",
+          "Garam dan minyak"
+        ],
+        "en": [
+          "300 g smoked fish",
+          "2 red tomatoes",
+          "6 curly red chilies",
+          "3 shallots",
+          "1 garlic clove",
+          "1/2 tsp sugar",
+          "Salt and oil"
+        ],
+        "zh": [
+          "300克烟熏鱼",
+          "2个红番茄",
+          "6个卷曲红辣椒",
+          "3个红葱头",
+          "1瓣蒜",
+          "1/2茶匙糖",
+          "盐和油"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Panaskan ikan sebentar. Goreng atau panggang sesuai selera.",
+          "Ulek tomat, cabai, bawang, gula, dan garam.",
+          "Tumis sambal sampai matang dan harum.",
+          "Sajikan bersama ikan asap."
+        ],
+        "en": [
+          "Warm the fish briefly; fry or grill as preferred.",
+          "Pound tomatoes, chilies, shallots, garlic, sugar and salt.",
+          "Sauté the relish until cooked and fragrant.",
+          "Serve with smoked fish."
+        ],
+        "zh": [
+          "短暂加热鱼，可按喜好煎或烤。",
+          "将番茄、辣椒、红葱、蒜、糖和盐捣碎。",
+          "将辣椒酱炒熟并炒香。",
+          "与烟熏鱼一起食用。"
+        ]
+      }
+    },
+    {
+      "id": "REC-012",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Sup Bening Ikan Asap",
+        "en": "Clear Smoked Fish Soup",
+        "zh": "清汤烟熏鱼"
+      },
+      "description": {
+        "id": "Inspirasi olahan sup bening ikan asap untuk sajian rumahan.",
+        "en": "A home-style idea for clear smoked fish soup.",
+        "zh": "适合家庭烹饪的清汤烟熏鱼。"
+      },
+      "category": "praktis",
+      "label": {
+        "id": "PRAKTIS",
+        "en": "QUICK",
+        "zh": "简易"
+      },
+      "timeMinutes": 30,
+      "servings": 3,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-003"
+      ],
+      "image": "images/mangut-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-REC-WEB-001"
+      ],
+      "ingredients": {
+        "id": [
+          "300 g ikan asap",
+          "1 liter air",
+          "1 wortel",
+          "1 tomat",
+          "1 batang daun bawang",
+          "2 bawang putih",
+          "Merica dan garam"
+        ],
+        "en": [
+          "300 g smoked fish",
+          "1 liter water",
+          "1 carrot",
+          "1 tomato",
+          "1 spring onion",
+          "2 garlic cloves",
+          "Pepper and salt"
+        ],
+        "zh": [
+          "300克烟熏鱼",
+          "1升水",
+          "1根胡萝卜",
+          "1个番茄",
+          "1根葱",
+          "2瓣蒜",
+          "胡椒和盐"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Didihkan air bersama bawang putih.",
+          "Masukkan wortel dan masak hingga mulai empuk.",
+          "Tambahkan ikan asap dan tomat.",
+          "Bumbui, masukkan daun bawang, lalu sajikan hangat."
+        ],
+        "en": [
+          "Boil water with garlic.",
+          "Add carrot and cook until slightly tender.",
+          "Add smoked fish and tomato.",
+          "Season, add spring onion and serve warm."
+        ],
+        "zh": [
+          "将水与蒜煮沸。",
+          "加入胡萝卜煮至略软。",
+          "加入烟熏鱼和番茄。",
+          "调味后加入葱，趁热食用。"
+        ]
+      }
+    },
+    {
+      "id": "REC-013",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Mie Goreng Ikan Asap",
+        "en": "Fried Noodles with Smoked Fish",
+        "zh": "烟熏鱼炒面"
+      },
+      "description": {
+        "id": "Inspirasi olahan mie goreng ikan asap untuk sajian rumahan.",
+        "en": "A home-style idea for fried noodles with smoked fish.",
+        "zh": "适合家庭烹饪的烟熏鱼炒面。"
+      },
+      "category": "praktis",
+      "label": {
+        "id": "PRAKTIS",
+        "en": "QUICK",
+        "zh": "简易"
+      },
+      "timeMinutes": 30,
+      "servings": 3,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-011"
+      ],
+      "image": "images/nasi-goreng-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-REC-WEB-001"
+      ],
+      "ingredients": {
+        "id": [
+          "200 g mi telur",
+          "120 g ikan asap suwir",
+          "1 telur",
+          "2 bawang putih",
+          "1 batang daun bawang",
+          "1 sdm kecap manis",
+          "Sayuran sesuai selera"
+        ],
+        "en": [
+          "200 g egg noodles",
+          "120 g shredded smoked fish",
+          "1 egg",
+          "2 garlic cloves",
+          "1 spring onion",
+          "1 tbsp sweet soy sauce",
+          "Vegetables to taste"
+        ],
+        "zh": [
+          "200克鸡蛋面",
+          "120克撕碎的烟熏鱼",
+          "1个鸡蛋",
+          "2瓣蒜",
+          "1根葱",
+          "1汤匙甜酱油",
+          "适量蔬菜"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Rebus mi sesuai petunjuk kemasan, lalu tiriskan.",
+          "Tumis bawang putih, masukkan telur dan orak-arik.",
+          "Tambahkan ikan asap dan sayuran.",
+          "Masukkan mi dan kecap, aduk cepat lalu sajikan."
+        ],
+        "en": [
+          "Cook noodles according to the package directions and drain.",
+          "Sauté garlic, add egg and scramble.",
+          "Add smoked fish and vegetables.",
+          "Add noodles and sweet soy sauce, toss quickly and serve."
+        ],
+        "zh": [
+          "按包装说明煮面并沥干。",
+          "将蒜炒香，加入鸡蛋炒散。",
+          "加入烟熏鱼和蔬菜。",
+          "加入面条和甜酱油，快速翻炒后食用。"
+        ]
+      }
+    },
+    {
+      "id": "REC-014",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Perkedel Ikan Asap",
+        "en": "Smoked Fish Patties",
+        "zh": "烟熏鱼土豆饼"
+      },
+      "description": {
+        "id": "Inspirasi olahan perkedel ikan asap untuk sajian rumahan.",
+        "en": "A home-style idea for smoked fish patties.",
+        "zh": "适合家庭烹饪的烟熏鱼土豆饼。"
+      },
+      "category": "tradisional",
+      "label": {
+        "id": "TRADISIONAL",
+        "en": "TRADITIONAL",
+        "zh": "传统"
+      },
+      "timeMinutes": 30,
+      "servings": 3,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-011"
+      ],
+      "image": "images/nasi-goreng-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-REC-WEB-001"
+      ],
+      "ingredients": {
+        "id": [
+          "250 g ikan asap suwir",
+          "300 g kentang kukus",
+          "1 telur",
+          "2 bawang putih",
+          "1 batang daun bawang",
+          "Merica dan garam",
+          "Minyak untuk menggoreng"
+        ],
+        "en": [
+          "250 g shredded smoked fish",
+          "300 g steamed potatoes",
+          "1 egg",
+          "2 garlic cloves",
+          "1 spring onion",
+          "Pepper and salt",
+          "Oil for frying"
+        ],
+        "zh": [
+          "250克撕碎的烟熏鱼",
+          "300克蒸熟土豆",
+          "1个鸡蛋",
+          "2瓣蒜",
+          "1根葱",
+          "胡椒和盐",
+          "炸油"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Haluskan kentang dan campur dengan ikan asap.",
+          "Tambahkan bawang putih, daun bawang, merica dan garam.",
+          "Bentuk menjadi bulatan pipih dan celupkan ke telur.",
+          "Goreng hingga matang dan kecokelatan."
+        ],
+        "en": [
+          "Mash potatoes and mix with smoked fish.",
+          "Add garlic, spring onion, pepper and salt.",
+          "Shape into flat patties and dip in egg.",
+          "Fry until cooked and golden."
+        ],
+        "zh": [
+          "将土豆压碎，与烟熏鱼混合。",
+          "加入蒜、葱、胡椒和盐。",
+          "做成扁圆饼并裹上鸡蛋。",
+          "炸至熟透并呈金黄色。"
+        ]
+      }
+    },
+    {
+      "id": "REC-015",
+      "type": "recipe",
+      "status": "published",
+      "title": {
+        "id": "Sayur Asam Ikan Asap",
+        "en": "Sour Vegetable Soup with Smoked Fish",
+        "zh": "酸味蔬菜烟熏鱼汤"
+      },
+      "description": {
+        "id": "Inspirasi olahan sayur asam ikan asap untuk sajian rumahan.",
+        "en": "A home-style idea for sour vegetable soup with smoked fish.",
+        "zh": "适合家庭烹饪的酸味蔬菜烟熏鱼汤。"
+      },
+      "category": "tradisional",
+      "label": {
+        "id": "TRADISIONAL",
+        "en": "TRADITIONAL",
+        "zh": "传统"
+      },
+      "timeMinutes": 30,
+      "servings": 3,
+      "difficultyLabel": {
+        "id": "Mudah",
+        "en": "Easy",
+        "zh": "简单"
+      },
+      "imageIds": [
+        "SRC-IMG-003"
+      ],
+      "image": "images/mangut-ikan-asap.jpg",
+      "sourceIds": [
+        "SRC-REC-WEB-001"
+      ],
+      "ingredients": {
+        "id": [
+          "300 g ikan asap",
+          "1 liter air",
+          "100 g kacang panjang",
+          "1 jagung, potong",
+          "1 tomat",
+          "2 asam jawa atau sesuai selera",
+          "2 bawang merah",
+          "Garam dan gula"
+        ],
+        "en": [
+          "300 g smoked fish",
+          "1 liter water",
+          "100 g long beans",
+          "1 corn, cut into pieces",
+          "1 tomato",
+          "Tamarind to taste",
+          "2 shallots",
+          "Salt and sugar"
+        ],
+        "zh": [
+          "300克烟熏鱼",
+          "1升水",
+          "100克长豆",
+          "1根玉米，切段",
+          "1个番茄",
+          "适量罗望子",
+          "2个红葱头",
+          "盐和糖"
+        ]
+      },
+      "steps": {
+        "id": [
+          "Rebus air dengan bawang dan jagung hingga jagung mulai empuk.",
+          "Masukkan kacang panjang dan ikan asap.",
+          "Tambahkan tomat dan asam jawa.",
+          "Bumbui garam dan sedikit gula, lalu masak hingga sayuran matang."
+        ],
+        "en": [
+          "Boil water with shallots and corn until the corn starts to soften.",
+          "Add long beans and smoked fish.",
+          "Add tomato and tamarind.",
+          "Season with salt and a little sugar, then cook until vegetables are tender."
+        ],
+        "zh": [
+          "将水与红葱和玉米煮至玉米开始变软。",
+          "加入长豆和烟熏鱼。",
+          "加入番茄和罗望子。",
+          "用盐和少许糖调味，煮至蔬菜熟透。"
+        ]
+      }
+    }
+  ]
+}

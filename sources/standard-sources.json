@@ -1,0 +1,34 @@
+{
+  "standards": [
+    {
+      "sourceId": "SRC-ISO-9001-001",
+      "standard": "ISO 9001",
+      "title": "Quality Management Systems — Requirements",
+      "organization": "International Organization for Standardization",
+      "url": "https://www.iso.org/standard/9001?browse=ics",
+      "edition": "ISO 9001:2026, Edition 6",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REF-003",
+        "tentang.html"
+      ],
+      "notes": "Halaman resmi ISO. Jangan menyalin teks standar berlisensi."
+    },
+    {
+      "sourceId": "SRC-ISO-14001-001",
+      "standard": "ISO 14001",
+      "title": "Environmental Management Systems — Requirements with guidance for use",
+      "organization": "International Organization for Standardization",
+      "url": "https://www.iso.org/standard/14001",
+      "edition": "ISO 14001:2026, Edition 4",
+      "accessed": "2026-09-29",
+      "status": "verified",
+      "usedIn": [
+        "REF-004",
+        "tentang.html"
+      ],
+      "notes": "Halaman resmi ISO. Jangan menyalin teks standar berlisensi."
+    }
+  ]
+}

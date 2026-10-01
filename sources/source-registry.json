@@ -1,0 +1,562 @@
+{
+  "sources": [
+    {
+      "id": "SRC-JWN-001",
+      "type": "regional",
+      "title": "Sentra industri perikanan Juwana/Pati",
+      "organization": "Pemerintah Provinsi Jawa Tengah",
+      "url": "https://cjip.jatengprov.go.id/detail-proyek-investasi/proyek-sentra-industri-perikanan",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "IND-001",
+        "tentang.html"
+      ],
+      "status": "verified",
+      "notes": "Data regional; bukan kapasitas Praba."
+    },
+    {
+      "id": "SRC-JWN-002",
+      "type": "regional",
+      "title": "Contoh aktivitas pendaratan ikan Juwana",
+      "organization": "Sumber pemerintah/instansi terkait",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "IND-002",
+        "IND-003"
+      ],
+      "status": "pending",
+      "notes": "Verifikasi URL sebelum publikasi final."
+    },
+    {
+      "id": "SRC-JWN-003",
+      "type": "regional",
+      "title": "Contoh aktivitas pendaratan ikan Juwana 30 Januari 2025",
+      "organization": "Sumber pemerintah/instansi terkait",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "IND-004"
+      ],
+      "status": "pending",
+      "notes": "Verifikasi URL sebelum publikasi final."
+    },
+    {
+      "id": "SRC-KKP-001",
+      "type": "food-safety",
+      "title": "Cara Penanganan Ikan yang Baik",
+      "organization": "Kementerian Kelautan dan Perikanan",
+      "url": "https://ppid.kkp.go.id/upt/bppp-tegal/galeri/detail/cara-penanganan-ikan-yang-baik/",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REF-002",
+        "ART-001"
+      ],
+      "status": "verified",
+      "notes": "Referensi edukasi KKP tentang penanganan ikan yang baik."
+    },
+    {
+      "id": "SRC-KKP-002",
+      "type": "cold-chain",
+      "title": "Mengenal Rantai Dingin untuk Menjaga Mutu Ikan",
+      "organization": "Kementerian Kelautan dan Perikanan",
+      "url": "https://www.kkp.go.id/bkipm/mengenal-rantai-dingin-untuk-menjaga-mutu-ikan-Y7Wn/detail.html",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REF-001",
+        "ART-002"
+      ],
+      "status": "verified",
+      "notes": "Referensi KKP tentang rantai dingin dan penjagaan mutu ikan."
+    },
+    {
+      "id": "SRC-ISO-9001-001",
+      "type": "standard",
+      "title": "ISO 9001 Quality Management Systems",
+      "organization": "International Organization for Standardization",
+      "url": "https://www.iso.org/standard/9001?browse=ics",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REF-003",
+        "tentang.html"
+      ],
+      "status": "verified",
+      "notes": "ISO 9001:2026, edisi ke-6; gunakan ringkasan prinsip, bukan teks standar berlisensi."
+    },
+    {
+      "id": "SRC-ISO-14001-001",
+      "type": "standard",
+      "title": "ISO 14001 Environmental Management Systems",
+      "organization": "International Organization for Standardization",
+      "url": "https://www.iso.org/standard/14001",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REF-004",
+        "tentang.html"
+      ],
+      "status": "verified",
+      "notes": "ISO 14001:2026, edisi ke-4; gunakan ringkasan prinsip, bukan teks standar berlisensi."
+    },
+    {
+      "id": "SRC-PRB-001",
+      "type": "company",
+      "title": "Informasi produk Praba Sea Procesing Food",
+      "organization": "Praba Sea Procesing Food",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "PRD-001",
+        "PRD-002",
+        "PRD-003"
+      ],
+      "status": "owner-provided",
+      "notes": "Data produk diberikan dan dikonfirmasi oleh pemilik usaha dalam proses pengembangan website."
+    },
+    {
+      "id": "SRC-REC-001",
+      "type": "recipe",
+      "title": "Mangut Ikan Asap",
+      "organization": "ResepKoki",
+      "url": "https://resepkoki.id/resep/resep-mangut-ikan-asap/",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-001"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi; resep website ditulis ulang."
+    },
+    {
+      "id": "SRC-REC-002",
+      "type": "recipe",
+      "title": "Ikan Asap Sambal Matah",
+      "organization": "IDN Times",
+      "url": "https://www.idntimes.com/food/recipe/resep-ikan-asap-sambal-matah-c1c2-01-mtn6k-gwr5pv/",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-002"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi; resep website ditulis ulang."
+    },
+    {
+      "id": "SRC-REC-003",
+      "type": "recipe",
+      "title": "Ikan Asap Masak Rica",
+      "organization": "IDN Times",
+      "url": "https://www.idntimes.com/food/recipe/resep-ikan-asap-masak-rica-00-z5hk4-v02lr6",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-003"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi; resep website ditulis ulang."
+    },
+    {
+      "id": "SRC-REC-004",
+      "type": "recipe",
+      "title": "Ikan Asap Balado",
+      "organization": "Cookpad",
+      "url": "https://cookpad.com/id/resep/15479842",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-004"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "id": "SRC-REC-005",
+      "type": "recipe",
+      "title": "Ikan Asap Sambal Ijo",
+      "organization": "Cookpad",
+      "url": "https://cookpad.com/id/resep/15407497",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-005"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "id": "SRC-REC-006",
+      "type": "recipe",
+      "title": "Ikan Asap Kecap",
+      "organization": "Cookpad",
+      "url": "https://cookpad.com/id/resep/14541844",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-006"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "id": "SRC-REC-007",
+      "type": "recipe",
+      "title": "Ikan Asap Bumbu Woku",
+      "organization": "Cookpad",
+      "url": "https://cookpad.com/id/resep/11884940",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-007"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "id": "SRC-REC-008",
+      "type": "recipe",
+      "title": "Pepes Ikan Asap",
+      "organization": "Cookpad",
+      "url": "https://cookpad.com/id/resep/11251365",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-008"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "id": "SRC-REC-009",
+      "type": "recipe",
+      "title": "Nasi Goreng Ikan Asap Suwir",
+      "organization": "detikFood",
+      "url": "https://food.detik.com/nasi/d-6369582/resep-nasi-goreng-ikan-asap-suwir-yang-gurih-harum-buat-bekal",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-009"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "id": "SRC-REC-010",
+      "type": "recipe",
+      "title": "Tumis Ikan Asar Petai",
+      "organization": "Cookpad",
+      "url": "https://cookpad.com/id/resep/15711509",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "REC-010"
+      ],
+      "status": "verified",
+      "notes": "Referensi inspirasi."
+    },
+    {
+      "id": "SRC-IMG-001",
+      "type": "image",
+      "title": "Ilustrasi produk ikan asap",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "produk.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-002",
+      "type": "image",
+      "title": "Ilustrasi proses pengasapan",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-003",
+      "type": "image",
+      "title": "Mangut Ikan Asap",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-004",
+      "type": "image",
+      "title": "Ikan Asap Sambal Matah",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-005",
+      "type": "image",
+      "title": "Ikan Asap Rica-Rica",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-006",
+      "type": "image",
+      "title": "Ikan Asap Balado",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-007",
+      "type": "image",
+      "title": "Ikan Asap Sambal Ijo",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-008",
+      "type": "image",
+      "title": "Ikan Asap Bumbu Kecap",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-009",
+      "type": "image",
+      "title": "Ikan Asap Woku Kemangi",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-010",
+      "type": "image",
+      "title": "Pepes Ikan Asap",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-011",
+      "type": "image",
+      "title": "Nasi Goreng Ikan Asap",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-012",
+      "type": "image",
+      "title": "Tumis Ikan Asap Petai",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "resep.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan foto aktual fasilitas atau produk Praba Sea Procesing Food."
+    },
+    {
+      "id": "SRC-IMG-JWN-001",
+      "type": "image",
+      "title": "Aktivitas TPI Bajomulyo",
+      "organization": "",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "status": "pending",
+      "notes": "Cari foto yang dapat digunakan secara legal; jangan membuat URL sumber palsu."
+    },
+    {
+      "id": "SRC-IMG-JWN-002",
+      "type": "image",
+      "title": "PPP Bajomulyo",
+      "organization": "",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "status": "pending",
+      "notes": "Cari foto yang dapat digunakan secara legal; jangan membuat URL sumber palsu."
+    },
+    {
+      "id": "SRC-IMG-JWN-003",
+      "type": "image",
+      "title": "Kapal perikanan Juwana",
+      "organization": "",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "status": "pending",
+      "notes": "Cari foto yang dapat digunakan secara legal; jangan membuat URL sumber palsu."
+    },
+    {
+      "id": "SRC-IMG-JWN-004",
+      "type": "image",
+      "title": "Aktivitas bongkar ikan",
+      "organization": "",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "status": "pending",
+      "notes": "Cari foto yang dapat digunakan secara legal; jangan membuat URL sumber palsu."
+    },
+    {
+      "id": "SRC-IMG-REF-001",
+      "type": "image",
+      "title": "Visual konteks referensi",
+      "organization": "AI generated",
+      "url": "",
+      "accessed": "2026-09-29",
+      "usedIn": [
+        "tentang.html"
+      ],
+      "status": "ai-generated",
+      "notes": "Bukan dokumentasi aktual fasilitas Praba."
+    },
+    {
+      "id": "SRC-PRB-002",
+      "type": "company",
+      "title": "Alamat Praba Sea Procesing Food",
+      "organization": "Praba Sea Procesing Food",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "kontak.html",
+        "index.html"
+      ],
+      "status": "owner-provided",
+      "notes": "Diberikan oleh pemilik."
+    },
+    {
+      "id": "SRC-PRB-003",
+      "type": "company",
+      "title": "WhatsApp Praba Sea Procesing Food",
+      "organization": "Praba Sea Procesing Food",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "kontak.html",
+        "index.html"
+      ],
+      "status": "owner-provided",
+      "notes": "Diberikan oleh pemilik."
+    },
+    {
+      "id": "SRC-PRB-004",
+      "type": "company",
+      "title": "Instagram Praba Sea Procesing Food",
+      "organization": "Praba Sea Procesing Food",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "kontak.html"
+      ],
+      "status": "owner-provided",
+      "notes": "Diberikan oleh pemilik."
+    },
+    {
+      "id": "SRC-PRB-005",
+      "type": "company",
+      "title": "Tagline Praba Sea Procesing Food",
+      "organization": "Praba Sea Procesing Food",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "index.html",
+        "footer"
+      ],
+      "status": "owner-provided",
+      "notes": "Diberikan oleh pemilik."
+    },
+    {
+      "id": "SRC-KKP-003",
+      "type": "food-safety",
+      "title": "Referensi pengasapan/pemanggangan ikan",
+      "organization": "Kementerian Kelautan dan Perikanan",
+      "url": "",
+      "accessed": "",
+      "usedIn": [
+        "ART-001"
+      ],
+      "status": "pending",
+      "notes": "URL resmi perlu diverifikasi sebelum publikasi final."
+    },
+    {
+      "id": "SRC-REC-WEB-001",
+      "title": "Referensi ide resep ikan asap",
+      "organization": "BBC Good Food",
+      "url": "https://www.bbcgoodfood.com/recipes/collection/smoked-salmon-recipes",
+      "status": "verified",
+      "usedIn": [
+        "REC-011",
+        "REC-012",
+        "REC-013",
+        "REC-014",
+        "REC-015"
+      ],
+      "notes": "Referensi ide pengolahan ikan asap dan variasi hidangan; resep Praba ditulis ulang dan disesuaikan."
+    },
+    {
+      "id": "SRC-IMG-WEB-001",
+      "title": "Foto referensi proses pengasapan ikan",
+      "organization": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Smoking_fish.jpg",
+      "status": "verified",
+      "usedIn": [
+        "tentang.html",
+        "blog.html"
+      ],
+      "notes": "Foto referensi proses pengasapan ikan di Gambia; bukan foto fasilitas Praba Sea Procesing Food. Lisensi CC BY-SA 3.0 / GFDL sesuai halaman sumber."
+    }
+  ]
+}
